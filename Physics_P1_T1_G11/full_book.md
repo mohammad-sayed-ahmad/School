@@ -484,7 +484,7 @@ Solving for θ, we get θ = 26.25°C.
 
 #### Exercises
 
->[!NOTE] 1.18
+>[!IMPORTANT]
 > If the specific heat capacity of water is 4.18 x 10³ J kg⁻¹ K⁻¹, calculate the amount of energy needed to raise the temperature of:
 
 a) 1.00 kg of water from 12°C to 13°C.
@@ -1796,6 +1796,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc0NzM5NTMsLTE5MDk0NDE4ODQsMT
-Y3MjI1ODc0OF19
+eyJoaXN0b3J5IjpbNDgwMTEyNjczLC0xOTA5NDQxODg0LDE2Nz
+IyNTg3NDhdfQ==
 -->
