@@ -305,9 +305,9 @@ When p, V, and T all change from p₁, V₁, and T₁ to p₂, V₂, and T₂, t
 
 When T is constant the equation reduces to pV = constant (Boyle's Law), or p₁V₁ = p₂V₂.
 
-When p is constant the equation reduces to $\frac{V}{T} =$ constant (Charles's Law), or $V₁/T₁ = V₂/T₂$.
+When p is constant the equation reduces to $\frac{V}{T} =$ constant (Charles's Law), or $\frac{V₁}{T₁} = \frac{V₂}{T₂}$.
 
-When V is constant the equation reduces to $\frac{p}{T} =$ constant (Pressure Law), or $p₁/T₁ = p₂/T₂$.
+When V is constant the equation reduces to $\frac{p}{T} =$ constant (Pressure Law), or $\frac{p₁}{T₁} = \frac{p₂}{T₂}$.
 
 ---
 
@@ -321,7 +321,9 @@ Initial state: p₁ = 1.0 atm, V₁ = 100 cm³ and T₁ = 17°C = (17 + 273) K =
 
 Final state: p₂ = ?, V₂ = 20 cm³ and T₂ = 27°C = (27 + 273) K = 300 K.
 
-Using **p₁V₁/T₁ = p₂V₂/T₂**, we get p₂ = p₁ x (V₁/V₂) x (T₂/T₁) = 1.0 x (100/20) x (300/290) ≈ 5.2 atm
+Using $\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$, we get p₂ = p₁ x (V₁/V₂) x (T₂/T₁) = 1.0 x (100/20) x (300/290) ≈ 5.2 atm
+
+------
 
 #### Exercises
 
@@ -1808,5 +1810,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMxNzg1MjldfQ==
+eyJoaXN0b3J5IjpbLTQ3NDYwNTkyOV19
 -->
