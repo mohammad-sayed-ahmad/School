@@ -178,7 +178,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 
 *   Moreover the product p x V is almost a constant.
 
-*   Draw a graph of V/cm³ vs 1/p $(\frac{1}{MPa})$
+*   Draw a graph of V/cm³ vs 1/*p* (1/MPa)
 
 #### Outcome of the experiment
 
@@ -189,7 +189,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 *   We can say that V and 1/p are directly proportional or that V and p are inversely proportional.
 
 *   The mathematical representation of Boyle's law is:
-    V∝ 1/p or V = constant/p or pV = constant
+    $V∝ \frac{1}{p}$ or V = constant/p or pV = constant
 
 *   Boyle's Law is stated as follows
     **"For a fixed mass of gas at constant temperature the volume is inversely proportional to the pressure".**
@@ -1807,5 +1807,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTg4ODgwNV19
+eyJoaXN0b3J5IjpbLTE4ODcwMTkwNDNdfQ==
 -->
