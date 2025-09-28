@@ -11,13 +11,13 @@ Take your hands out and place them in warm water. What will each hand feel?
 
 Such experiences lead us to the following generalization:
 
-> "Our sense of heat tells us whether heat energy is leaving our skin, the case in which we feel the sensation of coldness, or whether heat energy is entering our body through our skin, the case in which we feel the sensation of hotness".
+**"Our sense of heat tells us whether heat energy is leaving our skin, the case in which we feel the sensation of coldness, or whether heat energy is entering our body through our skin, the case in which we feel the sensation of hotness".**
 
 Can you recall other experiences that verify the above generalization?
 
 Is there such a thing as absolute hotness? If yes, our sensation of hotness, being relative, cannot determine that. Hence, instruments other than our sense of hotness are required. Scientists believe that there is an absolute measure of hotness that we call temperature.
 
-> Temperature may be defined as the degree of hotness of a body, a property which can change and be measured.
+**Temperature may be defined as the degree of hotness of a body, a property which can change and be measured.**
 
 Scientists believe that physical changes always take place at the same temperature, anywhere in the universe, and at any time. For instance, under a pressure of 1 atm, water boils at 100°C on the surface of the Earth.
 
@@ -27,7 +27,7 @@ Matter has properties that seem to change with hotness, like the volume of a fix
 
 Can you think of another property of matter that changes with hotness?
 
-> Thermometric properties are properties of objects that can be used to make thermometers, such as the change of volume of a fixed mass of gas at constant pressure. They are called thermometric properties because they can be used to measure temperature.
+**Thermometric properties are properties of objects that can be used to make thermometers, such as the change of volume of a fixed mass of gas at constant pressure. They are called thermometric properties because they can be used to measure temperature.**
 
 Not any property that changes with temperature is a thermometric property. Thermometric properties have to be measurable, that is, they have to have different values at different temperatures, but the same value under the same conditions.
 
@@ -1798,6 +1798,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI5NTg3NTgsLTE5MjY0NzgzODIsLT
-E5MDk0NDE4ODQsMTY3MjI1ODc0OF19
+eyJoaXN0b3J5IjpbNDEzMTQxODI0LC0xOTI2NDc4MzgyLC0xOT
+A5NDQxODg0LDE2NzIyNTg3NDhdfQ==
 -->
