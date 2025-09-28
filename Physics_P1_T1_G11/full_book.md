@@ -484,12 +484,12 @@ Solving for θ, we get θ = 26.25°C.
 
 #### Exercises
 
->[!IMPORTANT]
-> **1.18** If the specific heat capacity of water is 4.18 x 10³ J kg⁻¹ K⁻¹, calculate the amount of energy needed to raise the temperature of:
+```
+1.18 If the specific heat capacity of water is 4.18 x 10³ J kg⁻¹ K⁻¹, calculate the amount of energy needed to raise the temperature of:
 
 a) 1.00 kg of water from 12°C to 13°C.
 b) 10.00 kg of water from 312 K to 322 K.
-
+```
 ```
 1.19 Two liters of water (of density 1000 kg/m³) are poured in an aluminum kettle of mass 0.4 kg. Calculate the heat capacity of the system water-kettle and determine the energy required to raise its temperature by 40 K.
 ```
@@ -1796,6 +1796,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mzc1NSwtMTkwOTQ0MTg4NCwxNjcyMj
-U4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MjY0NzgzODIsLTE5MDk0NDE4ODQsMT
+Y3MjI1ODc0OF19
 -->
