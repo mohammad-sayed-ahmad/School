@@ -77,9 +77,9 @@ Name the thermometric property used in each of the above four thermometers.
 
 **To measure temperature, a temperature scale and a unit are needed.** We will learn how to construct a Celsius scale of temperature. Specifically, we will use a mercury-in-glass thermometer to build our temperature scale.
 
-> **In these notes, we will use the term ice point to represent the point on the thermometer which corresponds to the tip of the mercury column when the thermometer is in thermal equilibrium with melting ice at a pressure of one atmosphere. On the Celsius scale, the temperature of the thermometer, when the mercury level is at this point, is defined to be 0°C.**
+> In these notes, we will use the term ice point to represent the point on the thermometer which corresponds to the tip of the mercury column when the thermometer is in thermal equilibrium with melting ice at a pressure of one atmosphere. On the Celsius scale, the temperature of the thermometer, when the mercury level is at this point, is defined to be 0°C.
 
-> **Similarly, the term steam point is used to represent the point on the thermometer which corresponds to the tip of the mercury column when the thermometer is in thermal equilibrium with the steam above boiling water at a pressure of one atmosphere (i.e. around 1.01 x 10⁵ Pa). On the Celsius scale, the temperature of the thermometer when the mercury level is at this point, is defined as 100°C.**
+> Similarly, the term steam point is used to represent the point on the thermometer which corresponds to the tip of the mercury column when the thermometer is in thermal equilibrium with the steam above boiling water at a pressure of one atmosphere (i.e. around 1.01 x 10⁵ Pa). On the Celsius scale, the temperature of the thermometer when the mercury level is at this point, is defined as 100°C.
 
 ---
 ### Experiment: Checking the calibration of a Celsius thermometer. This experiment is to be done in teams of two.
@@ -1812,5 +1812,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgwODk2NTVdfQ==
+eyJoaXN0b3J5IjpbMTQ2NzE4MDQ4OV19
 -->
