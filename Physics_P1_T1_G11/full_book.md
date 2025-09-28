@@ -1,4 +1,4 @@
-s# Chapter 1: Temperature and Heat
+# Chapter 1: Temperature and Heat
 
 ## 1.1 Sensation of hotness and temperature
 
@@ -31,7 +31,7 @@ Can you think of another property of matter that changes with hotness?
 
 Not any property that changes with temperature is a thermometric property. Thermometric properties have to be measurable, that is, they have to have different values at different temperatures, but the same value under the same conditions.
 
----
+
 
 ```
 Activity 2
@@ -60,7 +60,7 @@ Name TWO thermometric properties: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Thermometers are instruments that utilize a particular thermometric property to measure temperature.** The mercury-in-glass, alcohol-in-glass, thermocouple and bimetallic strip thermometers are examples you will encounter in this course.
 
------
+
 
 ```
 Activity 3
@@ -70,7 +70,6 @@ Name the thermometric property used in each of the above four thermometers.
 
 *[Image of a clinical thermometer, a wall thermometer, a digital thermometer, and a dial thermometer]*
 
----
 
 ## C 1.2 Temperature scale
 
@@ -1811,5 +1810,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg0NTY3NDRdfQ==
+eyJoaXN0b3J5IjpbLTcwOTAyODQ2Ml19
 -->
