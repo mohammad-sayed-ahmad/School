@@ -451,7 +451,7 @@ Calculate the change in temperature of a 50 g silver spoon that loses 500 J of t
 
 **SOLUTION**
 
-$∆T = Q /mc = -500 / (0.05 x 0.25 x 10³)$ = -40 K
+$∆T = \frac{Q}{mc} = \frac{-500}{(0.05 \times (0.25 \times 10^{3})}$ = -40 K
 
 #### EXAMPLE 1.4
 
@@ -1795,5 +1795,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTI2MTMyMiwxNjcyMjU4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTU1ODI3NzY5NiwxNjcyMjU4NzQ4XX0=
 -->
