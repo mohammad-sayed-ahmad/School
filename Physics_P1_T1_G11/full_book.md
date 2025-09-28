@@ -409,7 +409,7 @@ Answer by True or False.
 
 ## 1.5 Thermal properties of matter
 
-Heat is internal energy, but temperature is a measure of the average kinetic energy due to the random motion of the molecules of an object.
+**Heat is internal energy, but temperature is a measure of the average kinetic energy due to the random motion of the molecules of an object.**
 
 Heat energy is the kind of energy, which when added to an object, normally results in an increase in the kinetic energy of the molecules (the concentration of energy in the object increases). The total energy added to the body is measured in joules. This causes an increase in the average kinetic energy per molecule, which on the macroscopic scale manifests itself as an increase in temperature, measured in kelvins or degrees Celsius. The higher the temperature of an object, the more the random thermal energy of its particles (on average).
 
@@ -417,7 +417,6 @@ Heat energy is the kind of energy, which when added to an object, normally resul
 
 > The relationship of "heat energy" to "temperature" is the same as the relationship of "money" to "wealth". If you give some money to a group of persons their wealth increases. Similarly, if you give heat to matter, its temperature will increase.
 
----
 
 ### 1.5.1 Specific heat
 
@@ -1795,5 +1794,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjI1ODc0OF19
+eyJoaXN0b3J5IjpbLTM1NzkzOTI4NSwxNjcyMjU4NzQ4XX0=
 -->
