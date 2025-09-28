@@ -55,11 +55,13 @@ Gather evidence to support this generalization by experiment and write up your r
 Give a full description of the equipment used, the procedures you followed, the precautions you took, the number of repetitions, etc.
 
 Name TWO thermometric properties: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+---____________________
 
 ---
 
 **Thermometers are instruments that utilize a particular thermometric property to measure temperature.** The mercury-in-glass, alcohol-in-glass, thermocouple and bimetallic strip thermometers are examples you will encounter in this course.
+
+-----
 
 ```
 Activity 3
@@ -1809,3 +1811,6 @@ Energy per unit time lost through window A is 120 W.
     4) The cross-sectional area through which heat can escape.
 
 *   Insulation should be effective, relatively cheap, and complete.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwODgwODk2NTVdfQ==
+-->
