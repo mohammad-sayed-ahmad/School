@@ -549,11 +549,12 @@ b) What happened to the 60% energy of the hammer?
 *   Hence, the order of heat capacities from lowest to highest: copper, aluminum and water.
 
 **The heat capacity of an object depends on its material.**
+
 ---
 
 ### 1.5.2 Measuring specific heat
 
-The specific heat capacity of a substance can be measured using one of the experiments explained in the following section.
+**The specific heat capacity of a substance can be measured using one of the experiments explained in the following section.**
 
 ---
 #### Experiment 1: Using an ammeter and a voltmeter
@@ -582,7 +583,7 @@ The specific heat capacity of a substance can be measured using one of the exper
 
 *   Calculate the energy supplied by using the equation: *Q* = *IVt*
 
-*   Calculate the specific heat capacity using the equation: *c* = *Q* / (*m*Δ*T*)
+*   Calculate the specific heat capacity using the equation: $c = \frac{Q}{mΔT})$
 
 > 1. If the substance is water, the value of *c* should be around 4200 J kg⁻¹ K⁻¹.
 > 2. If the substance is aluminum, the value of *c* should be around 880 J kg⁻¹ K⁻¹.
@@ -1796,6 +1797,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY0NzgzODIsLTE5MDk0NDE4ODQsMT
-Y3MjI1ODc0OF19
+eyJoaXN0b3J5IjpbLTE3OTc4MTA1MTUsLTE5MjY0NzgzODIsLT
+E5MDk0NDE4ODQsMTY3MjI1ODc0OF19
 -->
