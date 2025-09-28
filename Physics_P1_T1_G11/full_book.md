@@ -321,7 +321,7 @@ Initial state: p₁ = 1.0 atm, V₁ = 100 cm³ and T₁ = 17°C = (17 + 273) K =
 
 Final state: p₂ = ?, V₂ = 20 cm³ and T₂ = 27°C = (27 + 273) K = 300 K.
 
-Using $\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$, we get $p₂ = p₁ x \frac{V₁}{V₂} x \frac{T₂}{T₁} = 1.0 x \frac{100}{20} x \frac{300}{290} ≈$ 5.2 atm
+Using $\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$, we get $p₂ = p₁ \times \frac{V₁}{V₂} \times \frac{T₂}{T₁} = 1.0 \times \frac{100}{20} \times \frac{300}{290} ≈$ 5.2 atm
 
 ------
 
@@ -338,7 +338,9 @@ c) Practically the number of balloons is slightly less than what it was expected
 ```
 
 ```
-1.9 a) State Boyle's law. b) Describe an experiment supporting Boyle's law.
+1.9 
+a) State Boyle's law. 
+b) Describe an experiment supporting Boyle's law.
 ```
 
 ```
@@ -364,7 +366,8 @@ c) Practically the number of balloons is slightly less than what it was expected
 
 a) it is heated to 327°C at a constant pressure?
 
-b) it is cooled to -123°C at a constant pressure?```
+b) it is cooled to -123°C at a constant pressure?
+```
 
 ```
 1.15 A container holds a fixed amount of gas at 0°C. To what temperature must it be heated for its pressure to double? Assume the container does not expand.
@@ -1810,5 +1813,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc1MzYyNV19
+eyJoaXN0b3J5IjpbMTExMjcyNzAzM119
 -->
