@@ -178,7 +178,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 
 *   Moreover the product p x V is almost a constant.
 
-*   Draw a graph of V/cm³ vs 1/p (1/MPa⁻¹)
+*   Draw a graph of V/cm³ vs $1/p$ $(1/MPa⁻¹)$
 
 #### Outcome of the experiment
 
@@ -1807,5 +1807,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjUxNzk1Ml19
+eyJoaXN0b3J5IjpbLTEzNzM1NjI3OTBdfQ==
 -->
