@@ -203,7 +203,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 ### The Kelvin Scale
 
 Boyle's law can be used to define the absolute temperature (or Kelvin) scale as follows
-pV = cT
+$pV = cT$
 where C is a constant that depends on the amount of matter, i.e. the number of moles of the ideal gas, and T is the absolute temperature measured in kelvin (K). The kelvin is defined in such a way as to make the absolute temperature difference between the steam and ice points agree with the corresponding Celsius difference, i.e. T₁₀₀ - T₀ = 100 K. In other words the absolute temperature scale contains 100 kelvin between the ice and steam points, and a change in temperature of 1 K is identical to a 1°C change. On the other hand it is experimentally established that for a fixed amount of ideal gas the product pV at steam point is 1.3661 times its value at ice point, (i.e. T₁₀₀ = 1.3661T₀). Solving the last two equations for T₀ we get T₀ = 273.15 K from which we readily deduce T₁₀₀ = 373.15 K. The relation between the absolute and the Celsius scales that satisfies the above two requirements is of the form
 
 T = θ + 273.15,
@@ -1808,5 +1808,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjQzMjc5MF19
+eyJoaXN0b3J5IjpbLTE1MzAzNTA1MDZdfQ==
 -->
