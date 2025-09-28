@@ -735,7 +735,7 @@ An ice cube of mass 50.0 g at 0°C is submerged in 500 g of water at 25°C. Know
 
 Let us denote by *Q*₁ the heat lost by the 0.50 kg of water as its temperature decreases from 25°C to θ, and by *Q*₂ the heat required to melt the ice cube and raise its temperature (from 0°C ) to θ.
 
-For *Q*₁ and *Q*₂ we have *Q*₁ = 0.5c (25 - θ) and *Q*₂ = 0.05 *l*<sub>f</sub> + 0.05 c θ, where *c* is the specific heat capacity of water. Conservation of energy requires *Q*₁ = *Q*₂ from which we deduce that 0.55cθ = 12.5c - 0.05*l*<sub>f</sub>. Solving the last equation for θ we get θ = 22.7 - 0.091 *l*<sub>f</sub>/c = 15.4° C.
+For *Q*₁ and *Q*₂ we have *Q*₁ = 0.5c (25 - θ) and *Q*₂ = 0.05 *l*<sub>f</sub> + 0.05 c θ, where *c* is the specific heat capacity of water. Conservation of energy requires *Q*₁ = *Q*₂ from which we deduce that 0.55cθ = 12.5c - 0.05*l*<sub>f</sub>. Solving the last equation for θ we get $θ = 22.7 - 0.091\frac{l_f}{c} \approx 15.4$ °C.
 
 *[Image of an ice cube splashing into water.]*
 
@@ -1798,6 +1798,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjI5MTE5MiwtMTkyNjQ3ODM4MiwtMT
-kwOTQ0MTg4NCwxNjcyMjU4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTEyMzI5NTg3NTgsLTE5MjY0NzgzODIsLT
+E5MDk0NDE4ODQsMTY3MjI1ODc0OF19
 -->
