@@ -80,7 +80,7 @@ Name the thermometric property used in each of the above four thermometers.
 > Similarly, the term steam point is used to represent the point on the thermometer which corresponds to the tip of the mercury column when the thermometer is in thermal equilibrium with the steam above boiling water at a pressure of one atmosphere (i.e. around 1.01 x 10⁵ Pa). On the Celsius scale, the temperature of the thermometer when the mercury level is at this point, is defined as 100°C.
 
 ---
-**Experiment:** Checking the calibration of a Celsius thermometer. This experiment is to be done in teams of two.
+**Experiment:** Checking the *calibration of a Celsius thermometer.* This experiment is to be done in teams of two.
 
 *[Diagram showing a thermometer in a funnel of melting crushed ice, marking the lower fixed point or ice point at 0°C. Another diagram shows a thermometer in a beaker of boiling water, with the bulb just above the water in the steam, marking the upper fixed point or steam point at 100°C.]*
 
@@ -101,6 +101,7 @@ Name the thermometric property used in each of the above four thermometers.
     (b) Supposing that the reading of the barometer was 760 mm Hg, and that your temperature reading was NOT 100°C. What do you conclude?
 
     (c\) Supposing that the reading of the barometer was NOT 760 mm Hg, and that your temperature reading was 100°C. What do you conclude?
+---
 
 The above experiment is regarded as a tool to assess manipulative skills. It is an excellent example of the need for awareness of correct safety procedures when working in the laboratory. There are three principal hazards, of which you should be aware: (a) fragile glassware, (b) toxic mercury and (c\) extreme heat.
 
@@ -1808,5 +1809,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MDc1NzQ4XX0=
+eyJoaXN0b3J5IjpbMTQxMjMwMTk5MV19
 -->
