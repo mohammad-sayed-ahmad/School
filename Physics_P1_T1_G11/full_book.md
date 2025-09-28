@@ -632,17 +632,14 @@ In a simple home experiment, immerse a thermometer in a can containing crushed i
 
 Where does heat energy supplied to water or to ice go?
 
-You will recall from the Molecular Kinetic Theory that when thermal (heat) energy is added to a quantity of matter at its boiling point or at its melting point, a change of state occurs, without a change in temperature. All thermal energy given to a liquid at its boiling point goes to evaporate more liquid, without increasing the temperature of the liquid. According to the kinetic molecular theory, the added energy is not used to increase the kinetic energy of the molecules, but to increase the potential energy of some molecules anywhere in the liquid (not just on the surface), causing them to leave the liquid state and join the gaseous state. Energy is needed to pull liquid molecules away from other liquid molecules, against the forces that bind them together. Similarly, energy given to a solid at its melting point is all used to increase the potential energy of the molecules that break away from the solid state, and join the liquid state. The heat added to a material to change its state is called **latent heat**, which means "hidden heat".
+You will recall from the Molecular Kinetic Theory that when thermal (heat) energy is added to a quantity of matter at its boiling point or at its melting point, a change of state occurs, without a change in temperature. All thermal energy given to a liquid at its boiling point goes to evaporate more liquid, without increasing the temperature of the liquid. According to the kinetic molecular theory, the added energy is not used to increase the kinetic energy of the molecules, but to increase the potential energy of some molecules anywhere in the liquid (not just on the surface), causing them to leave the liquid state and join the gaseous state. Energy is needed to pull liquid molecules away from other liquid molecules, against the forces that bind them together. Similarly, energy given to a solid at its melting point is all used to increase the potential energy of the molecules that break away from the solid state, and join the liquid state. **The heat added to a material to change its state is called *latent heat*, which means 'hidden heat'.**
 
-> **Latent heat**
-> When thermal energy is added to a quantity of matter at its boiling point or at its melting point, a change of state occurs; solid changes to liquid and liquid changes to gas. Conversely, when thermal energy is removed from a quantity of matter at its boiling point or at its melting point, a change of state occurs, without a change in temperature; liquid changes to solid, and gas changes to liquid.
+**When thermal energy is added to a quantity of matter at its boiling point or at its melting point, a change of state occurs; solid changes to liquid and liquid changes to gas. Conversely, when thermal energy is removed from a quantity of matter at its boiling point or at its melting point, a change of state occurs, without a change in temperature; liquid changes to solid, and gas changes to liquid.**
 
-> **Internal energy**
-> The sum of the random kinetic energies of all the particles of a body, plus the sum of potential energies in these particles is called **internal energy**.
+**The sum of the random kinetic energies of all the particles of a body, plus the sum of potential energies in these particles is called **internal energy**.**
 
-> *Note: You should be able to explain which burns may hurt more: boiling water at 100°C, or water vapor at 100°C.*
-
----
+> [!NOTE]
+> You should be able to explain which burns may hurt more: boiling water at 100°C, or water vapor at 100°C.*
 
 ```
 Activity 1
@@ -1794,6 +1791,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNzM4NjgxLC0xOTI2NDc4MzgyLC0xOT
-A5NDQxODg0LDE2NzIyNTg3NDhdfQ==
+eyJoaXN0b3J5IjpbMTI5MDA5NzcwNCwtMTkyNjQ3ODM4MiwtMT
+kwOTQ0MTg4NCwxNjcyMjU4NzQ4XX0=
 -->
