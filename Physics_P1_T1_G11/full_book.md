@@ -672,8 +672,6 @@ The quantity found in the above activity is called the **specific latent heat of
 $Q = ml_v$
 
 
----
-
 The following tables give the specific latent heats for some substances
 
 **Table 1: Approximate specific heats of fusion**
@@ -693,6 +691,8 @@ The following tables give the specific latent heats for some substances
 | Water | 2.3 |
 | Mercury | 0.3 |
 
+
+----
 #### EXAMPLE 1.6
 
 Two liquids L₁ and L₂ of the same mass are heated using identical heaters under equal conditions. The graphs depict the variation of temperature with time for the two liquids. Compare the liquids' boiling temperatures as well as their specific latent heats of vaporization.
@@ -703,13 +703,17 @@ Two liquids L₁ and L₂ of the same mass are heated using identical heaters un
 
 The horizontal section of each graph corresponds to a vaporization which for L₁ takes place at a higher temperature. Moreover, this horizontal section is longer for L₂, which means that more time is required to evaporate it, and thus more heat (heaters are identical.) Since the liquids have equal masses if follows that L₂ has the greater specific heat of vaporization.
 
+----
+
 #### EXAMPLE 1.7
 
 Calculate the time required to vaporize 0.50 kg of water (at 100°C) with a 1.5 kW electric heater. Neglect heat losses.
 
 **SOLUTION**
 
-The quantity of heat required is *Q* = *ml*<sub>v</sub> = 1.15 MJ. This energy is delivered by the heater in a time *t* = (1.15 x 10⁶) / (1.5 x 10³) = 7.7 x 10² s
+The quantity of heat required is *Q* = *ml*<sub>v</sub> = 1.15 MJ. This energy is delivered by the heater in a time *t* = $\frac{1.15 \times 10⁶) / (1.5 \times 10³) = 7.7 \times 10²$ s
+
+----
 
 #### EXAMPLE 1.8
 
@@ -720,6 +724,8 @@ The energy released in the condensation of 2.0 g of steam (at 100°C) into liqui
 The heat released by steam is *Q* = *ml*<sub>v</sub> = 4.6 kJ.
 
 The mass of molten ice is then *m* = *Q* / *l*<sub>f</sub> = 4.6 / 340 = 14 g.
+
+----
 
 #### EXAMPLE 1.9
 
@@ -1792,6 +1798,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc1NDg1NCwtMTkyNjQ3ODM4MiwtMT
+eyJoaXN0b3J5IjpbLTIxMzA3NDIyOCwtMTkyNjQ3ODM4MiwtMT
 kwOTQ0MTg4NCwxNjcyMjU4NzQ4XX0=
 -->
