@@ -301,13 +301,13 @@ The temperature of a fixed mass of gas at constant volume is cooled from 91°C t
 For ideal gases, the three equations between p, V, and T can be combined together to give the gas equation
 $\frac{pV}{T} =$ constant (T in K).
 
-When p, V, and T all change from p₁, V₁, and T₁ to p₂, V₂, and T₂, then **$\frac{p₁V₁/T₁ = p₂V₂/T₂$**.
+When p, V, and T all change from p₁, V₁, and T₁ to p₂, V₂, and T₂, then **$\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$**.
 
 When T is constant the equation reduces to pV = constant (Boyle's Law), or p₁V₁ = p₂V₂.
 
-When p is constant the equation reduces to **V/T = constant (Charles's Law), or V₁/T₁ = V₂/T₂**.
+When p is constant the equation reduces to $\frac{V}{T} =$ constant (Charles's Law), or $V₁/T₁ = V₂/T₂$.
 
-When V is constant the equation reduces to **p/T = constant (Pressure Law), or p₁/T₁ = p₂/T₂**.
+When V is constant the equation reduces to $\frac{p}{T} =$ constant (Pressure Law), or $p₁/T₁ = p₂/T₂$.
 
 ---
 
@@ -1808,5 +1808,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDQzMTM4OF19
+eyJoaXN0b3J5IjpbLTE3MzMxNzg1MjldfQ==
 -->
