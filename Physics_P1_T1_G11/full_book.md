@@ -489,7 +489,7 @@ Solving for θ, we get θ = 26.25°C.
 
 a) 1.00 kg of water from 12°C to 13°C.
 b) 10.00 kg of water from 312 K to 322 K.
-```
+
 
 ```
 1.19 Two liters of water (of density 1000 kg/m³) are poured in an aluminum kettle of mass 0.4 kg. Calculate the heat capacity of the system water-kettle and determine the energy required to raise its temperature by 40 K.
@@ -1797,6 +1797,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjc5NzIzMywtMTkwOTQ0MTg4NCwxNj
+eyJoaXN0b3J5IjpbMTI2ODM5Mjk0NSwtMTkwOTQ0MTg4NCwxNj
 cyMjU4NzQ4XX0=
 -->
