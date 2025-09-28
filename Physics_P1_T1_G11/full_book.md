@@ -100,9 +100,9 @@ Name the thermometric property used in each of the above four thermometers.
 
     (b) Supposing that the reading of the barometer was 760 mm Hg, and that your temperature reading was NOT 100°C. What do you conclude?
 
-    (c) Supposing that the reading of the barometer was NOT 760 mm Hg, and that your temperature reading was 100°C. What do you conclude?
+    (c\) Supposing that the reading of the barometer was NOT 760 mm Hg, and that your temperature reading was 100°C. What do you conclude?
 
-The above experiment is regarded as a tool to assess manipulative skills. It is an excellent example of the need for awareness of correct safety procedures when working in the laboratory. There are three principal hazards, of which you should be aware: (a) fragile glassware, (b) toxic mercury and (c) extreme heat.
+The above experiment is regarded as a tool to assess manipulative skills. It is an excellent example of the need for awareness of correct safety procedures when working in the laboratory. There are three principal hazards, of which you should be aware: (a) fragile glassware, (b) toxic mercury and (c\) extreme heat.
 
 **(a) Fragile glassware:** The only way any glass can break during this experiment is if someone is careless. Always arrange your apparatus so that you know exactly where everything is. You can only mistakenly knock something over if you don't know where it (or what your colleagues) put it. Take personal mature responsibility for your own safety.
 
@@ -110,7 +110,7 @@ A common blunder is to snap a thermometer while trying to insert it into a hole 
 
 **(b) Mercury:** If you do break a thermometer, mercury will leak out. Report the spillage immediately to the laboratory supervisor (usually the teacher). The spilt mercury is mopped up by "flowers of sulphur" (ordinary sulphur powder), and the resulting sludge can be scraped up like any other spillage. Do not chase little droplets of mercury around the lab. Apart from this being undignified, ingested mercury (even in vapor form) is a cumulative poison which causes brain damage.
 
-**(c) Heat hazard:** The butane burner can cause serious burns, so you should (i) know where it is and (ii) turn it off and put it out of harm's way when not in use. Any suspected leak of gas should be reported to the laboratory supervisor. Steam can also give painful burns that can take a long time to heal. In this experiment, you should know that the flask itself is too hot to touch and the steam comes out of the right-angled glass tube at the top. So, don't touch them. Most serious burns are caused by involuntary muscle movements caused by minor burns (knocking over something very hot as a result of pulling a finger away from touching it accidentally). You can only accidentally touch something hot if either (i) you don't know it is hot, or (ii) you don't know where it is; both completely avoidable circumstances.
+**(c\) Heat hazard:** The butane burner can cause serious burns, so you should (i) know where it is and (ii) turn it off and put it out of harm's way when not in use. Any suspected leak of gas should be reported to the laboratory supervisor. Steam can also give painful burns that can take a long time to heal. In this experiment, you should know that the flask itself is too hot to touch and the steam comes out of the right-angled glass tube at the top. So, don't touch them. Most serious burns are caused by involuntary muscle movements caused by minor burns (knocking over something very hot as a result of pulling a finger away from touching it accidentally). You can only accidentally touch something hot if either (i) you don't know it is hot, or (ii) you don't know where it is; both completely avoidable circumstances.
 
 ---
 
@@ -137,8 +137,6 @@ Exercise 1.1
 
 Describe an experiment used to check the calibration of a Celsius thermometer. What are the correct safety procedures that you need to be aware of? Explain.
 ```
-
----
 
 Although the definition of the Celsius scale provides an objective and practical way of measuring the "hotness" of a body, it still suffers from its dependence on the thermometric agent used (mercury, alcohol, etc.). This is because different liquids (and solids) behave quite differently at different temperatures. Thus, if the readings of two liquid-in-glass thermometers (e.g. mercury and alcohol) are made to coincide at the ice and steam points, there is no guarantee they'll do so at any other temperature.
 
@@ -1810,5 +1808,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTAyODQ2Ml19
+eyJoaXN0b3J5IjpbLTE3NzM1ODI5MDVdfQ==
 -->
