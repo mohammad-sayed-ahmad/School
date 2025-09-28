@@ -420,12 +420,13 @@ Heat energy is the kind of energy, which when added to an object, normally resul
 
 ### 1.5.1 Specific heat
 
-The energy required to raise the temperature of one kilogram of a substance by 1 degree Celsius is called the specific heat capacity denoted by c. Its unit is $J\cdot {kg}^{-1}\cdot °C^{-1}$ or $J\cdot kg^{-1}\cdot K^{-1}$. It follows that the quantity $Q$ of energy required to raise the temperature of $m$ kg of a substance by $∆T$ kelvin (or °C) is
-$Q = mc∆T$
+**The energy required to raise the temperature of one kilogram of a substance by 1 degree Celsius is called the specific heat capacity denoted by $c$**. Its unit is $J\cdot {kg}^{-1}\cdot °C^{-1}$ or $J\cdot kg^{-1}\cdot K^{-1}$. It follows that the quantity $Q$ of energy required to raise the temperature of $m$ kg of a substance by $∆T$ kelvin (or °C) is
+
+**$Q = mc∆T$**
 
 The following table lists the specific heat capacities of some substances:
 
-| Substance | c (kJ kg⁻¹ K⁻¹) |
+| Substance | c ($J\cdot kg^{-1}\cdot K^{-1}$) |
 | :--- | :--- |
 | Water | 4.2 |
 | Ice | 2.1 |
@@ -437,7 +438,7 @@ The following table lists the specific heat capacities of some substances:
 
 #### EXAMPLE 1.2
 
-If the specific heat capacity of water is 4.2 x 10³ J kg⁻¹ K⁻¹, calculate the amount of energy needed to raise the temperature of 10.00 kg of water from 312 K to 322 K.
+If the specific heat capacity of water is 4.2 x 10³ $J\cdot kg^{-1}\cdot K^{-1}$, calculate the amount of energy needed to raise the temperature of 10.00 kg of water from 312 K to 322 K.
 
 **SOLUTION**
 
@@ -450,7 +451,7 @@ Calculate the change in temperature of a 50 g silver spoon that loses 500 J of t
 
 **SOLUTION**
 
-∆T = Q / mc = -500 / (0.05 x 0.25 x 10³) = -40 K
+$∆T = Q /mc = -500 / (0.05 x 0.25 x 10³)$ = -40 K
 
 #### EXAMPLE 1.4
 
@@ -1794,5 +1795,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIxNzIzNSwxNjcyMjU4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTYxNTI2MTMyMiwxNjcyMjU4NzQ4XX0=
 -->
