@@ -55,7 +55,6 @@ Gather evidence to support this generalization by experiment and write up your r
 Give a full description of the equipment used, the procedures you followed, the precautions you took, the number of repetitions, etc.
 
 Name TWO thermometric properties: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----____________________
 
 ---
 
@@ -1812,5 +1811,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzE4MDQ4OV19
+eyJoaXN0b3J5IjpbLTEwODg0NTY3NDRdfQ==
 -->
