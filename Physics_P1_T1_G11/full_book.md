@@ -711,7 +711,7 @@ Calculate the time required to vaporize 0.50 kg of water (at 100°C) with a 1.5 
 
 **SOLUTION**
 
-The quantity of heat required is *Q* = *ml*<sub>v</sub> = 1.15 MJ. This energy is delivered by the heater in a time *t* = $\frac{1.15 \times 10⁶) / (1.5 \times 10³) = 7.7 \times 10²$ s
+The quantity of heat required is *Q* = *ml*<sub>v</sub> = 1.15 MJ. This energy is delivered by the heater in a time *t* = $\frac{1.15 \times 10^{6}}{1.5 \times 10^{3}} = 7.7 \times 10^{2}$ s
 
 ----
 
@@ -723,7 +723,7 @@ The energy released in the condensation of 2.0 g of steam (at 100°C) into liqui
 
 The heat released by steam is *Q* = *ml*<sub>v</sub> = 4.6 kJ.
 
-The mass of molten ice is then *m* = *Q* / *l*<sub>f</sub> = 4.6 / 340 = 14 g.
+The mass of molten ice is then $m = \frac{Q}{l_f} = \frac{4.6}{340} = 14$ g.
 
 ----
 
@@ -1798,6 +1798,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA3NDIyOCwtMTkyNjQ3ODM4MiwtMT
+eyJoaXN0b3J5IjpbLTUxMjI5MTE5MiwtMTkyNjQ3ODM4MiwtMT
 kwOTQ0MTg4NCwxNjcyMjU4NzQ4XX0=
 -->
