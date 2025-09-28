@@ -420,7 +420,7 @@ Heat energy is the kind of energy, which when added to an object, normally resul
 
 ### 1.5.1 Specific heat
 
-The energy required to raise the temperature of one kilogram of a substance by 1 degree Celsius is called the specific heat capacity denoted by c. Its unit is J kg⁻¹ °C⁻¹ or J kg⁻¹ K⁻¹. It follows that the quantity Q of energy required to raise the temperature of m kg of a substance by ∆T kelvin (or °C) is
+The energy required to raise the temperature of one kilogram of a substance by 1 degree Celsius is called the specific heat capacity denoted by c. Its unit is $J\cdot kg⁻¹\cdot °C⁻¹$ or J kg⁻¹ K⁻¹. It follows that the quantity Q of energy required to raise the temperature of m kg of a substance by ∆T kelvin (or °C) is
 **Q = mc∆T**
 
 The following table lists the specific heat capacities of some substances:
@@ -1794,5 +1794,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzkzOTI4NSwxNjcyMjU4NzQ4XX0=
+eyJoaXN0b3J5IjpbNzE4NjU1MTA5LDE2NzIyNTg3NDhdfQ==
 -->
