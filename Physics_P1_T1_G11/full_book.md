@@ -451,7 +451,7 @@ Calculate the change in temperature of a 50 g silver spoon that loses 500 J of t
 
 **SOLUTION**
 
-$∆T = \frac{Q}{mc} = \frac{-500}{(0.05 \times (0.25 \times 10^{3})}$ = -40 K
+$∆T = \frac{Q}{mc} = \frac{-500}{0.05 \times (0.25 \times 10^{3})}$ = -40 K
 
 #### EXAMPLE 1.4
 
@@ -459,10 +459,8 @@ The heat capacity C of an object (or system of objects) is the energy needed to 
 
 **SOLUTION**
 
-To raise the temperature of 1 kg of water by 1 K we need c joules, for 3.0 kg we shall need
-C = (3.0 kg) c = 3.0 x 4.2 x 10³ J K⁻¹. Generally, the relation between c and C is C = mc, where m is the mass of the object.
-
----
+To raise the temperature of 1 kg of water by 1 K we need $c$ joules, for 3.0 kg we shall need
+C = (3.0 kg) c = 3.0 x 4.2 x 10³ J K⁻¹. Generally, the relation between $c$ and $C$ is $C = mc$, where m is the mass of the object.
 
 #### EXAMPLE 1.5
 
@@ -482,7 +480,6 @@ Solving for θ, we get θ = 26.25°C.
 1.18 If the specific heat capacity of water is 4.18 x 10³ J kg⁻¹ K⁻¹, calculate the amount of energy needed to raise the temperature of:
 
 a) 1.00 kg of water from 12°C to 13°C.
-
 b) 10.00 kg of water from 312 K to 322 K.
 ```
 
@@ -1795,5 +1792,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODI3NzY5NiwxNjcyMjU4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTE4ODc0Mzc0NDksMTY3MjI1ODc0OF19
 -->
