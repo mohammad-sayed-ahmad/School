@@ -331,9 +331,7 @@ Using $\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$, we get $p₂ = p₁ \time
 1.8 A cylinder containing 0.04 m³ of helium at a pressure of 15 MPa is taken from town H to town C. The temperature of helium is found to be 27°C and 7.0°C in town H and C respectively.
 
 a) Determine the pressure of helium at town C.
-
 b) The helium is then used to inflate identical balloons each to 0.010 m³ at a pressure of 100 kPa. Assuming the temperature of helium remains the same, determine the number of balloons that can be fully inflated using the gas available.
-
 c) Practically the number of balloons is slightly less than what it was expected. Try to figure out the reason.
 ```
 
@@ -377,7 +375,6 @@ b) it is cooled to -123°C at a constant pressure?
 1.16 A fixed mass of gas occupies a volume of 200 cm³ at a temperature of 27°C and a pressure of 10⁵ Pa. Calculate the volume when:
 
 a) the pressure is doubled at constant temperature.
-
 b) the absolute temperature is doubled at constant pressure.
 ```
 
@@ -385,19 +382,14 @@ b) the absolute temperature is doubled at constant pressure.
 1.17 A gas is heated in a closed container so that its volume cannot change. Which of the following will NOT happen? Justify
 
 a) The average speed of the molecules will increase.
-
 b) The molecules will move in all directions.
-
 c) The number of molecules will increase.
-
 d) The pressure of the gas will increase.
 ```
 
----
+## 1.4 Change in temperature using Kinetic Theory
 
-## C 1.4 Change in temperature using Kinetic Theory
-
-When you studied the Kinetic Molecular Theory of Matter, you learned that the molecules of any object undergo random motion, such that each particle possesses some kinetic energy, even at very low temperatures. The average kinetic energy E of the molecules of an object is directly proportional to the absolute temperature T of the object, that is **E = kT**.
+When you studied the Kinetic Molecular Theory of Matter, you learned that the molecules of any object undergo random motion, such that each particle possesses some kinetic energy, even at very low temperatures. The average kinetic energy E of the molecules of an object is directly proportional to the absolute temperature T of the object, that is $E = kT$.
 
 This is the fundamental relation we sought between the temperature as a macroscopic quantity and the microscopic properties of matter. Thus, normally, if energy is added to an object such that the average kinetic energy of its molecules increases, its temperature increases.
 
@@ -1813,5 +1805,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjcyNzAzM119
+eyJoaXN0b3J5IjpbLTQ2MDc1ODM5NV19
 -->
