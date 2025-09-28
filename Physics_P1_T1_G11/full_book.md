@@ -389,11 +389,9 @@ d) The pressure of the gas will increase.
 
 ## 1.4 Change in temperature using Kinetic Theory
 
-When you studied the Kinetic Molecular Theory of Matter, you learned that the molecules of any object undergo random motion, such that each particle possesses some kinetic energy, even at very low temperatures. The average kinetic energy E of the molecules of an object is directly proportional to the absolute temperature T of the object, that is $E = kT$.
+When you studied the Kinetic Molecular Theory of Matter, you learned that the molecules of any object undergo random motion, such that each particle possesses some kinetic energy, even at very low temperatures. The average kinetic energy E of the molecules of an object is directly proportional to the absolute temperature T of the object, that is $\overline{E} = kT$.
 
-This is the fundamental relation we sought between the temperature as a macroscopic quantity and the microscopic properties of matter. Thus, normally, if energy is added to an object such that the average kinetic energy of its molecules increases, its temperature increases.
-
----
+This is the fundamental relation we sought between the temperature as a macroscopic quantity and the microscopic properties of matter. Thus, normally, **if energy is added to an object such that the average kinetic energy of its molecules increases, its temperature increases.**
 
 ```
 Activity
@@ -401,23 +399,15 @@ Activity
 Answer by True or False.
 
 1. The temperature of an object is a measure of the average kinetic energy of its molecules.
-
 2. Moving a body increases its kinetic energy, thus, making it hotter.
-
 3. The molecules of a hotter object have a higher concentration of heat energy than those of a colder object.
-
 4. Fast moving molecules have a higher temperature than identical but slow moving ones.
-
 5. Bodies can become hotter by converting their mechanical energy of macroscopic motion into the kinetic energy of their molecules' random motion. (Is the converse true?).
-
 6. In air, oxygen molecules O₂ (molar mass 32 g) move faster than nitrogen molecules N₂ (molar mass 28 g).
-
 7. If the average speed of a hydrogen molecule in air at room temperature is about 2 km/s, then the average speed of an oxygen molecule is about 0.5 km/s.
 ```
 
----
-
-## C 1.5 Thermal properties of matter
+## 1.5 Thermal properties of matter
 
 Heat is internal energy, but temperature is a measure of the average kinetic energy due to the random motion of the molecules of an object.
 
@@ -1805,5 +1795,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDc1ODM5NV19
+eyJoaXN0b3J5IjpbLTU4MDY3NzY2OF19
 -->
