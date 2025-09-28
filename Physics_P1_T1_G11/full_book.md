@@ -168,7 +168,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 
 | p (kPa) | V (cm³) | p x V (MPa.cm³) | 1/p (1/MPa) |
 | :--- | :--- | :--- | :--- |
-|      | | | |
+|  | | | |
 | | | | |
 | | | | |
 | | | | |
@@ -1807,5 +1807,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTY2NzIxOF19
+eyJoaXN0b3J5IjpbMjU1MDA2NzAyXX0=
 -->
