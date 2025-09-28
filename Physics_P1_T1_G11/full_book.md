@@ -321,7 +321,7 @@ Initial state: p₁ = 1.0 atm, V₁ = 100 cm³ and T₁ = 17°C = (17 + 273) K =
 
 Final state: p₂ = ?, V₂ = 20 cm³ and T₂ = 27°C = (27 + 273) K = 300 K.
 
-Using $\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$, we get p₂ = p₁ x (V₁/V₂) x (T₂/T₁) = 1.0 x (100/20) x (300/290) ≈ 5.2 atm
+Using $\frac{p₁V₁}{T₁} = \frac{p₂V₂}{T₂}$, we get $p₂ = p₁ x \frac{V₁}{V₂} x \frac{T₂}{T₁} = 1.0 x \frac{100}{20} x \frac{300}{290} ≈$ 5.2 atm
 
 ------
 
@@ -1810,5 +1810,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDYwNTkyOV19
+eyJoaXN0b3J5IjpbLTE3OTc1MzYyNV19
 -->
