@@ -436,6 +436,7 @@ The following table lists the specific heat capacities of some substances:
 | Silver | 0.25 |
 *Approximate specific heat capacity*
 
+---
 #### EXAMPLE 1.2
 
 If the specific heat capacity of water is 4.2 x 10³ $J\cdot kg^{-1}\cdot K^{-1}$, calculate the amount of energy needed to raise the temperature of 10.00 kg of water from 312 K to 322 K.
@@ -445,6 +446,8 @@ If the specific heat capacity of water is 4.2 x 10³ $J\cdot kg^{-1}\cdot K^{-1}
 The change in temperature is ∆T = 10 K and the amount of heat required is
 Q = 10.00 x 4.2 x 10³ x 10 = 4.2 x 10⁵ J.
 
+-----
+
 #### EXAMPLE 1.3
 
 Calculate the change in temperature of a 50 g silver spoon that loses 500 J of thermal energy to the surroundings.
@@ -452,6 +455,8 @@ Calculate the change in temperature of a 50 g silver spoon that loses 500 J of t
 **SOLUTION**
 
 $∆T = \frac{Q}{mc} = \frac{-500}{0.05 \times (0.25 \times 10^{3})}$ = -40 K
+
+----
 
 #### EXAMPLE 1.4
 
@@ -462,6 +467,7 @@ The heat capacity C of an object (or system of objects) is the energy needed to 
 To raise the temperature of 1 kg of water by 1 K we need $c$ joules, for 3.0 kg we shall need
 C = (3.0 kg) c = 3.0 x 4.2 x 10³ J K⁻¹. Generally, the relation between $c$ and $C$ is $C = mc$, where m is the mass of the object.
 
+-----
 #### EXAMPLE 1.5
 
 5 kg of hot water at θ₁ = 75°C are mixed with 15 kg of cold water at θ₂ = 10°C. Determine the temperature θ of water at thermal equilibrium. Neglect energy losses to the container and surroundings.
@@ -1791,5 +1797,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDkzNzIzNSwxNjcyMjU4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MDk0NDE4ODQsMTY3MjI1ODc0OF19
 -->
