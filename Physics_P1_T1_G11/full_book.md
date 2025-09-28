@@ -474,6 +474,8 @@ We have Q₁ = m₁c(75 - θ) and Q₂ = m₂c(θ - 10) where m₁ = 5 kg and m�
 
 Solving for θ, we get θ = 26.25°C.
 
+----
+
 #### Exercises
 
 ```
@@ -492,18 +494,15 @@ b) 10.00 kg of water from 312 K to 322 K.
 ```
 
 ```
-1.21 A 2.2 kg piece of lead is placed in an aluminum beaker, of mass 500 g, containing 10 liters of water. An electric heater, of power 2000 W, is used to heat the system from 20°C to 80°C in 2 min 22 sec. Determine the specific heat capacity of lead. Give one factor that affects your result and state how it does and how you can reduce its effect.
+1.21 A 2.2-kg piece of lead is placed in an aluminum beaker, of mass 500 g, containing 10 liters of water. An electric heater, of power 2000 W, is used to heat the system from 20°C to 80°C in 2 min 22 sec. Determine the specific heat capacity of lead. Give one factor that affects your result and state how it does and how you can reduce its effect.
 ```
 
 ```
-1.22 A hammer of mass 3.00 kg is released from a height of 3.00 m above the ground. The hammer is stopped by a collision with a lump of lead of mass 200 g at rest on the ground. Only 40% of the energy of the hammer is used to heat up the lump of lead (specific heat capacity of lead is 130 J kg⁻¹ K⁻¹, and g = 9.80 m/s²).
+1.22 A hammer of mass 5.00 kg is released from a height of 3.00 m above the ground. The hammer is stopped by a collision with a lump of lead of mass 200 g at rest on the ground. Only 40% of the energy of the hammer is used to heat up the lump of lead (specific heat capacity of lead is 130 J kg⁻¹ K⁻¹, and g = 9.80 m/s²).
 
 a) Calculate the increase in temperature of lead.
-
 b) What happened to the 60% energy of the hammer?
 ```
-
----
 
 ---
 ### Experiment
@@ -1792,5 +1791,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc0Mzc0NDksMTY3MjI1ODc0OF19
+eyJoaXN0b3J5IjpbLTU2NDkzNzIzNSwxNjcyMjU4NzQ4XX0=
 -->
