@@ -189,7 +189,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 *   We can say that V and 1/p are directly proportional or that V and p are inversely proportional.
 
 *   The mathematical representation of Boyle's law is:
-    $V∝ \frac{1}{p}$ or V = constant/p or pV = constant
+    $V∝ \frac{1}{p}$ or $V= \frac{constant}{p}$ or $pV= constant$ 
 
 *   Boyle's Law is stated as follows
     **"For a fixed mass of gas at constant temperature the volume is inversely proportional to the pressure".**
@@ -197,6 +197,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 *   Note: If V vs p is plotted, a curve like the one shown below is obtained.
 
 *[Graph of Volume (cm³) vs p (MPa) showing a curve that decreases as p increases]*
+
 ---
 
 ### The Kelvin Scale
@@ -1807,5 +1808,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODcwMTkwNDNdfQ==
+eyJoaXN0b3J5IjpbLTgwNjQzMjc5MF19
 -->
