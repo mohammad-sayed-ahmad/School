@@ -210,7 +210,7 @@ where C is a constant (that depends on the amount of matter, i.e. the number of 
 
 T = θ + 273.15,
 
-where θ is the temperature in degrees Celsius. We note that it is correct to write "degrees Celsius" and "kelvin" (with a small "k" for the word written out or a capital for the abbreviation: K); but it is incorrect to refer to "celsiuses" or "degrees Kelvin".
+where θ is the temperature in degrees Celsius. We note that it is correct to write "degrees Celsius" and "kelvin" (with a small "k" for the word written out or a capital for the abbreviation: K); but it is incorrect to refer to "Celsiuses" or "degrees Kelvin".
 
 #### Exercises
 
@@ -224,8 +224,7 @@ where θ is the temperature in degrees Celsius. We note that it is correct to wr
 
 ```
 1.4 Lord Kelvin (in honor of whom the absolute temperature scale is named) suggested the following procedure to define a temperature scale that makes use of our sense of hotness and two "virtually infinite" reservoirs of water at the fixed temperatures of melting ice and steam; mix hot water and ice water in measurable amounts in a beaker until the temperature of water feels the same as that of the desired body (e.g. sea water, oil, etc.). The temperature of the desired body is then defined as the ratio of the mass of hot water to the total mass of water in the beaker. Lord Kelvin believed that by means of the above described hands-on-water thermometer moderate temperatures can be measured with an accuracy of 0.25 K! Establish a relation between this temperature scale and the Celsius scale.```
-
----
+```
 
 ```
 Activity
@@ -247,7 +246,6 @@ An aerosol spray can contains liquid and compressed nitrogen. When the top is de
     (ii) Do you think that this gain in kinetic energy of the sprayed liquid will result in a noticeable cooling of the contents of the can? Give a reason for your answer.
 ```
 
----
 
 ### Thermocouple
 
@@ -259,7 +257,6 @@ A thermocouple is a simple temperature sensor that consists of two dissimilar me
 
 Thermocouples have low heat capacity which makes them respond quickly to changes in temperature and quickly reach thermal equilibrium with the body. Moreover thermocouples are very sensitive over a wide range of temperatures (4 K to 2700 K) with a relatively high precision (about 0.01 K).
 
----
 
 ### 1.3.2 Charles' Law: The Expansion Law for constant Pressure
 
@@ -1810,5 +1807,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDEwMjY2M119
+eyJoaXN0b3J5IjpbODMzNzY5MDA0XX0=
 -->
