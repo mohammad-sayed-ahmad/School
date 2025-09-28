@@ -655,10 +655,10 @@ Activity 2
 If 1.00 g of ice requires 335 J to change it from ice at 273 K to liquid water at 273 K, how many kJ are required to melt 10 kg of ice at 0°C?
 
 How many joules are needed to melt 1 kg of ice under these conditions?
-
-The quantity found in the above activity is called the **specific latent heat of fusion** l_f of water. Notice that by simple proportionality the heat needed to melt a mass m kg of ice under these conditions is given by:
-**Q = ml_f**
 ```
+
+The quantity found in the above activity is called the **specific latent heat of fusion** $l_f$ of water. Notice that by simple proportionality the heat needed to melt a mass $m$ kg of ice under these conditions is given by:
+$Q = ml_f$
 
 ```
 Activity 3
@@ -666,10 +666,11 @@ Activity 3
 If 1.00 g of water requires 2.26 kJ to change it from water at 373 K to steam at 373 K, what is the change (specify it as an increase or decrease) in internal energy when 1.0 kg of gaseous water at 100°C changes to liquid water at the same temperature? What is the total change in the kinetic energy of the molecules of water? What is the total change in their potential energy?
 
 How many joules are needed to boil 1 kg of water under these conditions?
-
-The quantity found in the above activity is called the **specific latent heat of vaporization** l_v of water. Notice that by simple proportionality the heat needed to boil a mass m kg of water under these conditions is given by
-**Q = ml_v**
 ```
+
+The quantity found in the above activity is called the **specific latent heat of vaporization** $l_v$ of water. Notice that by simple proportionality the heat needed to boil a mass $m$ kg of water under these conditions is given by
+$Q = ml_v$
+
 
 ---
 
@@ -1791,6 +1792,6 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDA5NzcwNCwtMTkyNjQ3ODM4MiwtMT
+eyJoaXN0b3J5IjpbLTExNzc1NDg1NCwtMTkyNjQ3ODM4MiwtMT
 kwOTQ0MTg4NCwxNjcyMjU4NzQ4XX0=
 -->
