@@ -71,7 +71,7 @@ Name the thermometric property used in each of the above four thermometers.
 *[Image of a clinical thermometer, a wall thermometer, a digital thermometer, and a dial thermometer]*
 
 
-## C 1.2 Temperature scale
+## 1.2 Temperature scale
 
 **To measure temperature, a temperature scale and a unit are needed.** We will learn how to construct a Celsius scale of temperature. Specifically, we will use a mercury-in-glass thermometer to build our temperature scale.
 
@@ -145,7 +145,7 @@ In contrast, all ideal gases behave in the same manner, and this makes them perf
 
 Experiments with rarefied (low density) gases, whose behavior models that of ideal ones, show that *"for equal amounts of gas, the product of the pressure p the gas exerts on the walls of the container by the volume V of the latter is the same for all ideal gases at equal temperature t"* (i.e. at thermal equilibrium). This universal behavior of ideal gases is known as **Boyle's Law**.
 
-## C 1.3 Gas Laws
+## 1.3 Gas Laws
 
 ### 1.3.1 Boyle's Law: Compressing a gas at constant temperature
 
@@ -1795,5 +1795,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDY3NzY2OF19
+eyJoaXN0b3J5IjpbMTY3MjI1ODc0OF19
 -->
