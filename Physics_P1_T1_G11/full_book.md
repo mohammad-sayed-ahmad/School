@@ -149,14 +149,12 @@ Experiments with rarefied (low density) gases, whose behavior models that of ide
 
 ### 1.3.1 Boyle's Law: Compressing a gas at constant temperature
 
----
 #### Experiment
-
 The diagram below shows a device which gives a reading of both volume and pressure of a fixed mass of gas at a constant temperature.
 
 *[Image of Boyle's Law apparatus showing a strong glass tube with trapped air, connected to a Bourdon gauge and an air foot pump via a reservoir of oil.]*
 
-An amount of air is trapped in a strong glass tube by a column of oil. The oil is originally placed inside a reservoir. The pressure can be altered by pumping air from a foot pump into the space above the oil reservoir. The pressure can be read directly by the Bourdon pressure gauge. The pressure read is the sum of the actual pressure of the air and the atmospheric pressure. When no air has been pumped, the gauge reads the atmospheric pressure, p = 1.0 x 10⁵ Pa.
+An amount of air is trapped in a strong glass tube by a column of oil. The oil is originally placed inside a reservoir. The pressure can be altered by pumping air from a foot pump into the space above the oil reservoir. The pressure can be read directly by the Bourdon pressure gauge. The pressure read is the sum of the actual pressure of the air and the atmospheric pressure. When no air has been pumped, the gauge reads the atmospheric pressure, *p* = 1.0 x 10⁵ Pa.
 
 **How to perform the experiment?**
 
@@ -170,7 +168,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 
 | p (kPa) | V (cm³) | p x V (MPa.cm³) | 1/p (1/MPa) |
 | :--- | :--- | :--- | :--- |
-| | | | |
+|      | | | |
 | | | | |
 | | | | |
 | | | | |
@@ -1809,5 +1807,5 @@ Energy per unit time lost through window A is 120 W.
 
 *   Insulation should be effective, relatively cheap, and complete.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjMwMTk5MV19
+eyJoaXN0b3J5IjpbLTUyNTY2NzIxOF19
 -->
