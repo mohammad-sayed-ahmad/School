@@ -57,7 +57,7 @@ Name TWO thermometric properties: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
 > Name the thermometric property used in each of the above four thermometers.
 
-*[Image of a clinical thermometer, a wall thermometer, a digital thermometer, and a dial thermometer]*
+![Image of a clinical thermometer, a wall thermometer, a digital thermometer, and a dial thermometer](./media/image1.png)
 
 ## 1.2 Temperature scale
 
@@ -70,7 +70,7 @@ Name TWO thermometric properties: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ---
 **Experiment:** Checking the *calibration of a Celsius thermometer.* This experiment is to be done in teams of two.
 
-*[Diagram showing a thermometer in a funnel of melting crushed ice, marking the lower fixed point or ice point at 0°C. Another diagram shows a thermometer in a beaker of boiling water, with the bulb just above the water in the steam, marking the upper fixed point or steam point at 100°C.]*
+![Diagram showing a thermometer in a funnel of melting crushed ice, marking the lower fixed point or ice point at 0°C. Another diagram shows a thermometer in a beaker of boiling water, with the bulb just above the water in the steam, marking the upper fixed point or steam point at 100°C.](./media/image2.png)
 
 1.  Using the procedure shown in the first diagram above, mark the ice point on the thermometer.
 
@@ -138,7 +138,7 @@ Experiments with rarefied (low density) gases, whose behavior models that of ide
 #### Experiment
 The diagram below shows a device which gives a reading of both volume and pressure of a fixed mass of gas at a constant temperature.
 
-*[Image of Boyle's Law apparatus showing a strong glass tube with trapped air, connected to a Bourdon gauge and an air foot pump via a reservoir of oil.]*
+![Image of Boyle's Law apparatus showing a strong glass tube with trapped air, connected to a Bourdon gauge and an air foot pump via a reservoir of oil.](./media/image3.png)
 
 An amount of air is trapped in a strong glass tube by a column of oil. The oil is originally placed inside a reservoir. The pressure can be altered by pumping air from a foot pump into the space above the oil reservoir. The pressure can be read directly by the Bourdon pressure gauge. The pressure read is the sum of the actual pressure of the air and the atmospheric pressure. When no air has been pumped, the gauge reads the atmospheric pressure, $p = 1.0 \times 10^5$ Pa.
 
@@ -170,7 +170,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 
 *   The graph should be a straight line passing through the origin.
 
-*[Graph of Volume (cm³) vs 1/p (1/MPa) showing a straight line passing through the origin]*
+![Graph of Volume (cm³) vs 1/p (1/MPa) showing a straight line passing through the origin](./media/image4.png)
 
 *   We can say that $V$ and $1/p$ are directly proportional or that $V$ and $p$ are inversely proportional.
 
@@ -182,7 +182,7 @@ An amount of air is trapped in a strong glass tube by a column of oil. The oil i
 
 *   Note: If $V$ vs $p$ is plotted, a curve like the one shown below is obtained.
 
-*[Graph of Volume (cm³) vs p (MPa) showing a curve that decreases as p increases]*
+![Graph of Volume (cm³) vs p (MPa) showing a curve that decreases as p increases](./media/image5.png)
 
 ---
 
@@ -228,15 +228,15 @@ where $\theta$ is the temperature in degrees Celsius. We note that it is correct
 
 A thermocouple is a simple temperature sensor that consists of two dissimilar metallic wires, such as iron-constantan and copper-constantan. The wires are joined at two junctions so as to make a closed circuit. One junction, called the reference thermo-junction, is maintained at a fixed temperature and the other junction is used as a probe to measure the temperature of the desired body. When junctions have different temperatures, a weak thermoelectric current will flow in the circuit. This current can be detected by a galvanometer ($G$) (sensitive meter) whose reading is used to deduce the relative temperature of the probe junction.
 
-*[Diagram of a thermocouple circuit with a hot junction, a cold junction, and a galvanometer.]*
+![Diagram of a thermocouple circuit with a hot junction, a cold junction, and a galvanometer.](./media/image6.png)
 
-*[Image showing a thermocouple measuring the temperature of a flame (850°C) and another measuring a beaker of water (37.2°C).]*
+![Image showing a thermocouple measuring the temperature of a flame (850°C) and another measuring a beaker of water (37.2°C).](./media/image7.png)
 
 Thermocouples have low heat capacity which makes them respond quickly to changes in temperature and quickly reach thermal equilibrium with the body. Moreover thermocouples are very sensitive over a wide range of temperatures ($4$ K to $2700$ K) with a relatively high precision (about $0.01$ K).
 
 ### 1.3.2 Charles' Law: The Expansion Law for constant Pressure
 
-*[Graphical representation of Charles' Law: a graph of V vs T showing a straight line through the origin.]*
+![Graphical representation of Charles' Law: a graph of V vs T showing a straight line through the origin.](./media/image8.png)
 
 If the pressure of a fixed amount of ideal gas is maintained constant, then the relation between the three macroscopic parameters $p$, $V$, and $T$, becomes $V = kT$.
 
@@ -260,7 +260,7 @@ This statement is known as **Charles' law**. It would be noted that the volume i
 
 "For a fixed amount of gas occupying a constant volume, the pressure is directly proportional to the absolute temperature" is the statement of the third gas law, known as the **Pressure Law**. The figure shows the graphical variation of pressure with temperature for a fixed amount of ideal gas of constant volume. In symbols, $p \propto kT$.
 
-*[p-T graph for a fixed volume of gas: a graph of p vs T showing a straight line through the origin.]*
+![p-T graph for a fixed volume of gas: a graph of p vs T showing a straight line through the origin.](./media/image9.png)
 
 > **Exercise 1.7**
 >
@@ -457,7 +457,7 @@ Solving for $\theta$, we get $\theta = 26.25°C$.
 
 *   Place the immersion heater in the central hole and the thermometer in the other hole.
 
-*[Diagram of the experimental setup showing beakers with 1kg of copper, 1kg of aluminum, and 1kg of water, each with a thermometer and an electric heater.]*
+![Diagram of the experimental setup showing beakers with 1kg of copper, 1kg of aluminum, and 1kg of water, each with a thermometer and an electric heater.](./media/10.png)
 
 *   Add a few drops of lubricating oil to improve the heat transfer from the heater to the block.
 
@@ -498,7 +498,7 @@ Solving for $\theta$, we get $\theta = 26.25°C$.
 
 *   Get a $12$ V DC power pack and connect a $12$ V immersion heater to it, as shown in the diagram below.
 
-*[Circuit diagram showing a 12V DC power supply connected in series with an ammeter and an immersion heater. A voltmeter is connected in parallel across the immersion heater.]*
+![Circuit diagram showing a 12V DC power supply connected in series with an ammeter and an immersion heater. A voltmeter is connected in parallel across the immersion heater.](./media//image10.png)
 
 *   Using a scale, find the mass $m$ of the substance (either solid or liquid).
 
@@ -531,7 +531,7 @@ Solving for $\theta$, we get $\theta = 26.25°C$.
 
 *   Get a $12$ V DC power pack and connect a $12$ V immersion heater to it, as shown in the diagram below.
 
-*[Diagram showing a 12V DC power supply connected to the input of a Joulemeter. The output of the Joulemeter is connected to an immersion heater placed in a lagged beaker of liquid.]*
+![Diagram showing a 12V DC power supply connected to the input of a Joulemeter. The output of the Joulemeter is connected to an immersion heater placed in a lagged beaker of liquid.](./media/image11.png)
 
 *   Using a balance, find the mass $m$ of the substance (either solid or liquid).
 
@@ -580,7 +580,7 @@ You will recall from the Molecular Kinetic Theory that when thermal (heat) energ
 >
 > The graph shows a plot of temperature (vertical axis) vs time of heating a solid at a constant rate. Explain its shape.
 >
-> *[A graph of temperature vs. time. It shows a line with a positive slope, then a horizontal line, then another line with a positive slope (less steep than the first), then another horizontal line at a higher temperature.]*
+> ![A graph of temperature vs. time. It shows a line with a positive slope, then a horizontal line, then another line with a positive slope (less steep than the first), then another horizontal line at a higher temperature.](./media/image12.png)
 
 > [!IMPORTANT] Activity 2
 >
@@ -624,7 +624,7 @@ The following tables give the specific latent heats for some substances
 
 Two liquids $L_1$ and $L_2$ of the same mass are heated using identical heaters under equal conditions. The graphs depict the variation of temperature with time for the two liquids. Compare the liquids' boiling temperatures as well as their specific latent heats of vaporization.
 
-*[Graph of temperature (θ) vs time (t) for two liquids, L₁ and L₂. Both start at the same temperature. Both lines increase, then go horizontal. L₁'s temperature rises faster than L₂'s. L₁'s horizontal section (boiling) is at a lower temperature and is shorter in time than L₂'s horizontal section.]*
+![Graph of temperature (θ) vs time (t) for two liquids, L₁ and L₂. Both start at the same temperature. Both lines increase, then go horizontal. L₁'s temperature rises faster than L₂'s. L₁'s horizontal section (boiling) is at a lower temperature and is shorter in time than L₂'s horizontal section.](./media/image13.png)
 
 **SOLUTION**
 
@@ -664,13 +664,12 @@ Let us denote by $Q_1$ the heat lost by the $0.50$ kg of water as its temperatur
 
 For $Q_1$ and $Q_2$ we have $Q_1 = 0.5c (25 - \theta)$ and $Q_2 = 0.05 l_f + 0.05 c \theta$, where $c$ is the specific heat capacity of water. Conservation of energy requires $Q_1 = Q_2$ from which we deduce that $0.55c\theta = 12.5c - 0.05l_f$. Solving the last equation for $\theta$ we get $\theta = 22.7 - 0.091\frac{l_f}{c} \approx 15.4$ °C.
 
-*[Image of an ice cube splashing into water.]*
-
+![Image of an ice cube splashing into water.](./media/image14.png)
 ---
 
 #### 1.5.4 Measuring the specific latent heat of fusion of water
 
-*[Diagram of an experimental setup. A thermo flask contains ice, water, a stirrer, and an immersion heater. The heater is connected to a 12V DC power supply through an ammeter, with a voltmeter connected in parallel across the heater.]*
+![Diagram of an experimental setup. A thermo flask contains ice, water, a stirrer, and an immersion heater. The heater is connected to a 12V DC power supply through an ammeter, with a voltmeter connected in parallel across the heater.](./media/image15.png)
 
 *   Connect the electric heater to its power supply and measuring circuit.
 
@@ -690,7 +689,7 @@ For $Q_1$ and $Q_2$ we have $Q_1 = 0.5c (25 - \theta)$ and $Q_2 = 0.05 l_f + 0.0
 
 #### 1.5.5 Measuring the specific latent heat of vaporization of water
 
-*[Diagram of an experimental setup. An immersion heater is in a beaker of water, which is placed on a lagging material. A lid with a hole is on the beaker. The setup is connected to a 12V DC supply and an energy measuring circuit.]*
+![Diagram of an experimental setup. An immersion heater is in a beaker of water, which is placed on a lagging material. A lid with a hole is on the beaker. The setup is connected to a 12V DC supply and an energy measuring circuit.](./media/image15.png)
 
 The apparatus shown in the figure above gives an estimate of the specific latent heat of vaporization of water.
 
@@ -731,7 +730,7 @@ A liquid (or even a solid) evaporates not only at its boiling point, but at any 
 > **1.25** Calculate the quantity of heat required to transform $200$ g of ice at $-20°C$ to steam at $100°C$.
 
 > **1.26** Equal masses of water and mercury are heated simultaneously with identical heaters and under the same conditions from an initial common temperature of $20°C$. The specific heat capacity of mercury and boiling-point are $130 J\cdot kg^{-1}\cdot K^{-1}$ and $357°C$ respectively. The adjacent graph shows the variation of the water's temperature with time. Draw the graph of temperature variation for mercury.
-> *[Graph of temperature (θ) vs time (t) for water, showing a rising line, then a horizontal line at 100°C]*
+> ![Graph of temperature (θ) vs time (t) for water, showing a rising line, then a horizontal line at 100°C](./media/image17.png)
 
 > **1.27** Two thermometers, one wet and the other dry, indicate different ambient temperatures. Explain. Which thermometer shows the lower temperature?
 
@@ -750,7 +749,7 @@ A liquid (or even a solid) evaporates not only at its boiling point, but at any 
 > (a) What precautions do you have to take in order to improve the accuracy of the experiment?
 >
 > (b) If the temperature of the block rises by $7.7°C$, calculate the specific heat capacity of copper neglecting heat losses.
-> *[Diagram showing a cylindrical block of copper with a heater in a central hole and a thermometer in an offset hole.]*
+> ![Diagram showing a cylindrical block of copper with a heater in a central hole and a thermometer in an offset hole.](./media/image18.png)
 
 > **1.32** $200$ g of steam at $100°C$, together with $150$ g of ice at $-10.0°C$, are added to $250$ g of water at room temperature ($20.0 °C$). Neglecting heat exchange with the surroundings, determine the equilibrium temperature of the mixture and the mass of $H_2O$ in each phase.
 
@@ -761,7 +760,7 @@ A liquid (or even a solid) evaporates not only at its boiling point, but at any 
 > b) Find, in terms of $p_1$, $p_2$, $T_1$, and $T_2$, the fractional change in the gas's volume during the process.
 >
 > c) Sketch the graph of $1/p$ versus $V$ for this process.
-> *[Graph of Pressure (p) vs Temperature (T) showing a straight line from (T₁, p₁) to (T₂, p₂) with a positive slope.]*
+> ![Graph of Pressure (p) vs Temperature (T) showing a straight line from (T₁, p₁) to (T₂, p₂) with a positive slope.](./media/image19.png)
 
 > **1.34** How much heat is needed to raise the temperature of $5.0$ kg of a substance of specific heat capacity $300 Jkg^{-1}°C^{-1}$ by $10°C$?
 
@@ -789,7 +788,7 @@ A liquid (or even a solid) evaporates not only at its boiling point, but at any 
 
 > **1.40** The diagram below shows a graph of temperature against time of a substance which is heated at a constant rate from a low to high temperature.
 >
-> *[Graph of Temperature in °C vs Time in minutes. The line starts at 0, rises (A), becomes horizontal (B), rises again more steeply (C), becomes horizontal at a higher temperature (D), and then rises again (E).]*
+> ![Graph of Temperature in °C vs Time in minutes. The line starts at 0, rises (A), becomes horizontal (B), rises again more steeply (C), becomes horizontal at a higher temperature (D), and then rises again (E).](./media/image20.png)
 >
 > Use the letters to answer the following questions. Give an explanation for each of your answers.
 >
@@ -825,11 +824,7 @@ A liquid (or even a solid) evaporates not only at its boiling point, but at any 
 
 Solids and liquids expand upon heating. This generalization has always been found to be true, although the expansion is relatively very small. You can strengthen your belief in the above generalization by trying out the demonstrations illustrated below.
 
-*[Four diagrams illustrating thermal expansion:
-1. A metal rod fits snugly in a gauge at normal temperature, but is too long to fit after being heated.
-2. A metal ball passes through a ring at normal temperature, but is too large to pass through after being heated.
-3. A bimetallic strip is straight at normal temperature, but bends after being heated.
-4. A flask with a narrow tube containing colored liquid. When the flask is heated, the liquid level rises in the tube.]*
+![Four diagrams illustrating thermal expansion: 1. A metal rod fits snugly in a gauge at normal temperature, but is too long to fit after being heated. 2. A metal ball passes through a ring at normal temperature, but is too large to pass through after being heated. 3. A bimetallic strip is straight at normal temperature, but bends after being heated. 4. A flask with a narrow tube containing colored liquid. When the flask is heated, the liquid level rises in the tube.](./media/image21.png)
 
 The linear expansion of a solid under small variations in temperature can be well approximated by the formula
 **$\Delta L = \alpha L_0 \Delta T$**
@@ -891,7 +886,7 @@ The change in radius $\Delta r$ must be greater than $0.1$ mm. Accordingly, the 
 
 Consider the ring shown in the adjacent figure. What happens to the gap upon heating the ring?
 
-*[Diagram of a solid ring with a gap in it.]*
+![Diagram of a solid ring with a gap in it.](./media/image22.png)
 
 **SOLUTION**
 
@@ -957,7 +952,7 @@ When different solids stack together, or different parts of the same solid, expa
 
 Bimetallic Strip: If two different metal strips are stack together, forming the so called **bimetallic strip**, and heated to the same higher temperature, the strips will bend in the direction of the strip that expands least. This is because the outer strip must be longer than the inner one. For the same reason, if the strip is cooled below its normal temperature it bends toward the metal which contracts most.
 
-*[Diagram showing a bimetallic strip at normal temperature (straight), when hotter (bent towards the material with smaller α), and when colder (bent towards the material with greater α).]*
+![Diagram showing a bimetallic strip at normal temperature (straight), when hotter (bent towards the material with smaller α), and when colder (bent towards the material with greater α).](./media/image23.png)
 
 ##### Applications of Bimetallic Strips
 
@@ -965,11 +960,11 @@ Bimetallic strips are used in thermostats, electric breakers, and in many other 
 
 (a) Bimetallic strips are used in thermostats to keep the temperature of a room constant. The next figure shows the thermostat of an iron.
 
-*[Diagram of a thermostat circuit. A bimetallic strip is placed near contacts that complete a circuit to a heater. A control knob adjusts the distance between the strip and the contacts.]*
+![Diagram of a thermostat circuit. A bimetallic strip is placed near contacts that complete a circuit to a heater. A control knob adjusts the distance between the strip and the contacts.](./media/image24.png)
 
 (b) A bimetallic strip can be used as a fire alarm, where heat from a fire makes it expand and bend so completing an electric circuit and causing an alarm bell to ring.
 
-*[Diagram of a fire alarm circuit. At normal temperature, a bimetallic strip is separate from a contact. When heated by a fire, the strip bends, touches the contact, completes the circuit, and rings an electric bell.]*
+![Diagram of a fire alarm circuit. At normal temperature, a bimetallic strip is separate from a contact. When heated by a fire, the strip bends, touches the contact, completes the circuit, and rings an electric bell.](./media/image25.png)
 
 (c\) A bimetallic coil is used in thermometers fixed to some home ovens. Although it is not as accurate as mercury-in glass thermometers, this is not a problem, because high accuracy is not needed for cooking. The bimetallic coil is fixed at one end on the glass of the oven door, and a pointer is fixed on the other end. Changes in the temperature cause the pointer to move against a dial.
 
@@ -980,7 +975,7 @@ Bimetallic strips are used in thermostats, electric breakers, and in many other 
 > **1.57** A compound strip of copper and iron is straight at room temperature. Give a labeled diagram and explain what happens when it is heated.
 
 > **1.58** A thermostat in a refrigerator utilizes a bimetallic strip to cut off the electric circuit of the compressor when the temperature drops below a certain value. Which strip (in the figure below) has the greater coefficient of thermal expansion? How can you use the screw to control the cut-off temperature?
-> *[Diagram showing a bimetallic strip connected to a screw, which can close a circuit to a compressor.]*
+> ![Diagram showing a bimetallic strip connected to a screw, which can close a circuit to a compressor.](./media/image27.png)
 
 #### 1.6.3 Forces resulting from expansion and contraction
 
@@ -997,7 +992,7 @@ Expansion and contraction can produce significant forces. In the coming experime
 
 *   When the steel rod gets hot it should expand, since there is no room for expansion the cast iron bar will break.
 
-*[Diagram of a bar breaking apparatus, with a steel rod held between two supports (A and B), and a cast iron bar placed alongside it, secured by a tensioning nut at A'.]*
+![Diagram of a bar breaking apparatus, with a steel rod held between two supports (A and B), and a cast iron bar placed alongside it, secured by a tensioning nut at A'.](./media/image28.png)
 
 ##### Outcome of experiment
 
@@ -1089,7 +1084,7 @@ The next experiments illustrate conduction of heat in metals, water and air.
 
 *   Place rods of different materials on top of a tripod as shown in the diagram (use rods of copper, steel and fiberglass).
 
-*[Diagram of an experiment with copper, steel, and fiberglass rods arranged on a tripod with one end of each being heated by a burner. A piece of wax and a cork are attached to the other end of each rod.]*
+![Diagram of an experiment with copper, steel, and fiberglass rods arranged on a tripod with one end of each being heated by a burner. A piece of wax and a cork are attached to the other end of each rod.](./media/image29.png)
 
 *   Make sure that the rods are of the same length and diameter to provide a proper comparison among them.
 
@@ -1113,7 +1108,7 @@ The next experiments illustrate conduction of heat in metals, water and air.
 
 *   Place a piece of ice at the bottom of a test tube as shown in the diagram.
 
-*[Diagram of a test tube containing water and ice at the bottom, held by a metal gauze. The top of the water is being heated by a flame, causing it to boil, while the ice at the bottom remains frozen.]*
+![Diagram of a test tube containing water and ice at the bottom, held by a metal gauze. The top of the water is being heated by a flame, causing it to boil, while the ice at the bottom remains frozen.](./media/image30.png)
 
 *   Fill the test tube with cold water but not to the top.
 
@@ -1176,7 +1171,7 @@ On the other hand, objects less dense than air, like hot air balloons, or bodies
 
 A burning matchstick, for example, quickly uses up the oxygen in contact with the flame, and replaces it with carbon dioxide. But, although carbon dioxide is normally denser than air and should go down, it is actually very hot and is much lighter than air. So it floats upwards, together with the other hot gases, which are replaced by oxygen-rich cold air coming up from underneath the rising hot gases. An upward current of warmed gases (called a *thermal*) is generated (that can cause a toy pinwheel placed above the burning matchstick to rotate).
 
-*[Image of a burning matchstick]*
+![Image of a burning matchstick](./media/image31.png)
 
 **Without gravity the match stick cannot keep on burning.**
 
@@ -1184,15 +1179,15 @@ Similarly, a hot boiled egg is also cooled by "gravity". Air in contact with the
 
 You should also be aware that blowing air over an object to speed up heat transfer is an example of forced convection. Forced convection has more everyday applications because it is faster and more reliable. Fans in heaters, car radiators and air conditioners are the principal applications, though cooling an egg by blowing on it is also an example.
 
-*[Image of a car engine and a computer cooling fan.]*
+![Image of a car engine and a computer cooling fan.](./media/image32.png)
 
 ### 1.8.1 The Expansion of Water
 
 As water is cooled down to $4°C$ it behaves in a normal way, hence it contracts. Between $4°C$ and $0°C$, water behaves in a strange way, it expands as it gets colder. The maximum density occurs at $+4°C$ (minimum volume) as shown in the diagrams below. The reason for this vital behavior is the complex molecular structure of ice. The orderly arrangement of water molecules in ice crystals actually takes up more room than the random arrangement in water. As water approaches freezing, larger and larger groups of molecules align temporarily with the ice configuration, thus causing the water to occupy more and more space.
 
-*[Graph of Volume vs. Temperature (°C) for water, showing volume decreasing to a minimum at 4°C and then increasing as it cools to 0°C and becomes ice.]*
+![Graph of Volume vs. Temperature (°C) for water, showing volume decreasing to a minimum at 4°C and then increasing as it cools to 0°C and becomes ice.](./media/image33.png)
 
-*[Graph of Density (kg/m³) vs. Temperature (°C) for water, showing density increasing to a maximum at 4°C and then decreasing as it cools to 0°C. A separate graph shows the density of ice is lower than water.]*
+![Graph of Density (kg/m³) vs. Temperature (°C) for water, showing density increasing to a maximum at 4°C and then decreasing as it cools to 0°C. A separate graph shows the density of ice is lower than water.](./media/image34.png)
 
 The strange expansion of water between $4°C$ and $0°C$ explains why fish survive in a frozen pond. The water at the top of the pond cools first, contracts and being denser sinks to the bottom. Warmer, less dense water rises due to convection currents in the pond to be cooled. When all the water is at $4°C$, the circulation of current stops; so we can say that the different density layers stop convection currents from spreading the heat.
 
@@ -1200,7 +1195,7 @@ If the temperature of the surface water falls below $4°C$, it becomes less dens
 
 Aquatic animals and plants use this phenomenon in winter when the water freezes as shown in the diagram below.
 
-*[Diagram of a pond in winter. From top to bottom: Air below 0°C, a layer of ice, water at 0°C, water at 1°C, 2°C, 3°C, and water at 4°C at the bottom where fish are swimming.]*
+![Diagram of a pond in winter. From top to bottom: Air below 0°C, a layer of ice, water at 0°C, water at 1°C, 2°C, 3°C, and water at 4°C at the bottom where fish are swimming.](./media/image35.png)
 
 > **Exercise 1.64**
 >
@@ -1235,7 +1230,7 @@ Convection is the way by which heat travels through fluids ( liquids and gases).
 
 *   Streaks of water can be seen rising upwards and fanning outwards, as shown in the diagram below.
 
-*[Diagram showing a flask of water being heated from below by a small flame. Crystals of potassium permanganate at the bottom create purple streaks that rise, spread out at the top, and then sink along the sides, illustrating a convection current.]*
+![Diagram showing a flask of water being heated from below by a small flame. Crystals of potassium permanganate at the bottom create purple streaks that rise, spread out at the top, and then sink along the sides, illustrating a convection current.](./media/image36.png)
 
 ##### Outcome of Experiment
 
@@ -1252,7 +1247,7 @@ Convection is the way by which heat travels through fluids ( liquids and gases).
 
 *   Place a lit candle under one chimney and then stuff some touch paper (made by soaking brown paper in strong potassium nitrate solution and drying it) into the top of the other chimney as shown in the diagram below.
 
-*[Diagram of an apparatus to show convection in air. A box with a glass window has two glass chimneys. A lit candle is under one chimney. Smoke from a piece of touch paper enters the other chimney, goes down into the box, and then rises out of the chimney with the candle.]*
+![Diagram of an apparatus to show convection in air. A box with a glass window has two glass chimneys. A lit candle is under one chimney. Smoke from a piece of touch paper enters the other chimney, goes down into the box, and then rises out of the chimney with the candle.](./media/image37.png)
 
 *   Compare what happens when the candle is lit with what happens when it is not. Write down your observations.
 
@@ -1272,13 +1267,13 @@ Usually, in the coastal regions there is a temperature difference between the se
 
 During the day, the temperature of the land increases quicker than that of the sea. The hot air above the land rises because it is less dense and it is replaced by the cold air coming from the sea. This is called the sea breeze and happens during the day.
 
-*[Diagram illustrating a sea breeze, with cool air moving from the sea to the land, where warm air is rising.]*
+![Diagram illustrating a sea breeze, with cool air moving from the sea to the land, where warm air is rising.](./media/image38.png)
 
 **Land breeze**
 
 At night the opposite happens, the land cools down more than the sea. The warmer air rises above the sea and draws cooler air off the land. This is known as land breeze and happens during the night.
 
-*[Diagram illustrating a land breeze, with cool air moving from the land to the sea, where warm air is rising.]*
+![Diagram illustrating a land breeze, with cool air moving from the land to the sea, where warm air is rising.](./media/image39.png)
 
 Hang-gliders use this phenomenon of convection currents of warm air known as thermals so that they can increase their altitude and stay up for longer.
 
@@ -1342,7 +1337,7 @@ Below is an experiment to demonstrate that some surfaces absorb radiation better
 
 *   Turn on the heater and observe carefully what happens to the two coins.
 
-*[Diagram of an experiment with an electric heater between two plates. One plate has a shiny surface facing the heater, the other has a dull black surface. A coin is attached to the back of each plate with wax.]*
+![Diagram of an experiment with an electric heater between two plates. One plate has a shiny surface facing the heater, the other has a dull black surface. A coin is attached to the back of each plate with wax.](./media/image40.png)
 
 ##### Outcome of experiment
 
@@ -1383,7 +1378,7 @@ What totally prevents conduction is the vacuum between the double glass walls of
 
 Infrared radiation on the other hand, is more difficult to prevent because it can travel through the vacuum between the double glass walls, so making both walls of silvered surface side reduces it. The first silvered surface reduces the outward traveling radiation, while the second silvered surface reflects some of the heat back to the hot drink, because the silvered surface acts as a good reflector (poor absorber) of heat energy. A cross-sectional diagram of the vacuum flask is shown in the adjacent figure.
 
-*[Cross-sectional diagram of a vacuum flask, showing the stopper, double-walled glass vessel, silvered surfaces, vacuum, case, and felt pad.]*
+![Cross-sectional diagram of a vacuum flask, showing the stopper, double-walled glass vessel, silvered surfaces, vacuum, case, and felt pad.](./media/image41.png)
 
 #### Exercises
 

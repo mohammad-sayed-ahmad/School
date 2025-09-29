@@ -6,8 +6,8 @@
 ## Book Stage
 - [X] Extract text from images
 - [X] Finish formatting
-- [ ] General Formatting Review
-- [ ] Add graphs and images
+- [X] General Formatting Review
+- [X] Add graphs and images
 - [ ] Seperate Exercises and Book
 
 ## Audio Stage
