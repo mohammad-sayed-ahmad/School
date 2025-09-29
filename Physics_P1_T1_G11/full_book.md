@@ -2,8 +2,7 @@
 
 ## 1.1 Sensation of hotness and temperature
 
-> **Activity 1**
->
+> [!IMPORTANT] Activity 1
 > Place one hand in cold water and the other hand in hot water, for a couple of minutes.
 > Take your hands out and place them in warm water. What will each hand feel?
 
@@ -29,7 +28,7 @@ Can you think of another property of matter that changes with hotness?
 
 Not any property that changes with temperature is a thermometric property. Thermometric properties have to be measurable, that is, they have to have different values at different temperatures, but the same value under the same conditions.
 
-> **Activity 2**
+> [!IMPORTANT] Activity 2
 >
 > Which of the following are thermometric properties? Give reasons.
 >
@@ -54,7 +53,7 @@ Name TWO thermometric properties: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Thermometers are instruments that utilize a particular thermometric property to measure temperature.** The mercury-in-glass, alcohol-in-glass, thermocouple and bimetallic strip thermometers are examples you will encounter in this course.
 
-> **Activity 3**
+> [!IMPORTANT] Activity 3
 >
 > Name the thermometric property used in each of the above four thermometers.
 
@@ -207,7 +206,7 @@ where $\theta$ is the temperature in degrees Celsius. We note that it is correct
 
 > **1.4** Lord Kelvin (in honor of whom the absolute temperature scale is named) suggested the following procedure to define a temperature scale that makes use of our sense of hotness and two "virtually infinite" reservoirs of water at the fixed temperatures of melting ice and steam; mix hot water and ice water in measurable amounts in a beaker until the temperature of water feels the same as that of the desired body (e.g. sea water, oil, etc.). The temperature of the desired body is then defined as the ratio of the mass of hot water to the total mass of water in the beaker. Lord Kelvin believed that by means of the above described hands-on-water thermometer moderate temperatures can be measured with an accuracy of $0.25$ K! Establish a relation between this temperature scale and the Celsius scale.
 
-> **Activity**
+> [!IMPORTANT] Activity
 >
 > An aerosol spray can contains liquid and compressed nitrogen. When the top is depressed, nitrogen forces the liquid out through the nozzle. The total volume of the container is $100$ cm³.
 >
@@ -342,7 +341,7 @@ When you studied the Kinetic Molecular Theory of Matter, you learned that the mo
 
 This is the fundamental relation we sought between the temperature as a macroscopic quantity and the microscopic properties of matter. Thus, normally, **if energy is added to an object such that the average kinetic energy of its molecules increases, its temperature increases.**
 
-> **Activity**
+> [!IMPORTANT] Activity
 >
 > Answer by True or False.
 >
@@ -577,13 +576,13 @@ You will recall from the Molecular Kinetic Theory that when thermal (heat) energ
 > [!NOTE]
 > You should be able to explain which burns may hurt more: boiling water at $100°C$, or water vapor at $100°C$.*
 
-> **Activity 1**
+> [!IMPORTANT] Activity 1
 >
 > The graph shows a plot of temperature (vertical axis) vs time of heating a solid at a constant rate. Explain its shape.
 >
 > *[A graph of temperature vs. time. It shows a line with a positive slope, then a horizontal line, then another line with a positive slope (less steep than the first), then another horizontal line at a higher temperature.]*
 
-> **Activity 2**
+> [!IMPORTANT] Activity 2
 >
 > If $1.00$ g of ice requires $335$ J to change it from ice at $273$ K to liquid water at $273$ K, how many kJ are required to melt $10$ kg of ice at $0°C$?
 >
@@ -592,7 +591,7 @@ You will recall from the Molecular Kinetic Theory that when thermal (heat) energ
 The quantity found in the above activity is called the **specific latent heat of fusion** $l_f$ of water. Notice that by simple proportionality the heat needed to melt a mass $m$ kg of ice under these conditions is given by:
 $Q = ml_f$
 
-> **Activity 3**
+> [!IMPORTANT] Activity 3
 >
 > If $1.00$ g of water requires $2.26$ kJ to change it from water at $373$ K to steam at $373$ K, what is the change (specify it as an increase or decrease) in internal energy when $1.0$ kg of gaseous water at $100°C$ changes to liquid water at the same temperature? What is the total change in the kinetic energy of the molecules of water? What is the total change in their potential energy?
 >
@@ -731,7 +730,7 @@ A liquid (or even a solid) evaporates not only at its boiling point, but at any 
 
 > **1.25** Calculate the quantity of heat required to transform $200$ g of ice at $-20°C$ to steam at $100°C$.
 
-> **1.26** Equal masses of water and mercury are heated simultaneously with identical heaters and under the same conditions from an initial common temperature of $20°C$. The specific heat capacity of mercury and boiling-point are $130 J\cdotkg^{-1}\cdotK^{-1}$ and $357°C$ respectively. The adjacent graph shows the variation of the water's temperature with time. Draw the graph of temperature variation for mercury.
+> **1.26** Equal masses of water and mercury are heated simultaneously with identical heaters and under the same conditions from an initial common temperature of $20°C$. The specific heat capacity of mercury and boiling-point are $130 J\cdot kg^{-1}\cdot K^{-1}$ and $357°C$ respectively. The adjacent graph shows the variation of the water's temperature with time. Draw the graph of temperature variation for mercury.
 > *[Graph of temperature (θ) vs time (t) for water, showing a rising line, then a horizontal line at 100°C]*
 
 > **1.27** Two thermometers, one wet and the other dry, indicate different ambient temperatures. Explain. Which thermometer shows the lower temperature?
@@ -869,6 +868,7 @@ b) Substituting in $\Delta L = \alpha L_0 \Delta T$ gives ($-1.2 \times 10^{-3})
 
 The expansion of solids takes place in all dimensions. Thus, a brass circular plate and a brass spherical ball, each $1$ cm in diameter, will increase in diameter by $1.9$ cm for one degree rise in temperature. All linear dimensions will increase by the same factor. Furthermore, holes inside solids expand at the same rate as the solid. So, a brass circular ring and a brass spherical shell, each $1$ cm in diameter, will increase in diameter by $1.9$ cm for one degree rise in temperature. All linear dimensions will increase by the same factor, whether internal or external dimensions. This is verified by the ring and ball demonstration in the diagram above. Do not be fooled into believing that the expansion will push matter to partially fill up the holes - it doesn't happen that way!
 
+-----
 #### EXAMPLE 1.11
 
 The area of an iron square plate at $25°C$ is $A_0 = 1$ m². Calculate the change in its area as it cools to $0°C$.
@@ -877,6 +877,7 @@ The area of an iron square plate at $25°C$ is $A_0 = 1$ m². Calculate the chan
 
 Each side of the plate shrinks to $l = l_0(1 + \alpha\Delta T)$, where $l_0 = 1$ m is the side at $25°C$. So, the area becomes $A = l^2 = l_0^2(1 + \alpha\Delta T)^2 = A_0(1 + 2\alpha\Delta T + \alpha^2\Delta T^2)$. In the last expression $\alpha^2$ is a very small number and the term containing it can be safely neglected yielding $A - A_0(1 + 2\alpha\Delta T)$. Substituting the given values we get for the change in area $\Delta A = A - A_0 = A_0(2\alpha\Delta T)$ cm². Notice that the coefficient of surface expansion is $2\alpha$.
 
+----
 #### EXAMPLE 1.12
 
 The inner radius of an aluminum ring measures $10.00$ cm at $25°C$. To what minimum temperature must the ring be heated for a steel ball of radius $10.01$ cm to slip through it?
@@ -885,6 +886,7 @@ The inner radius of an aluminum ring measures $10.00$ cm at $25°C$. To what min
 
 The change in radius $\Delta r$ must be greater than $0.1$ mm. Accordingly, the least change in temperature is $\Delta T = \Delta r / (\alpha r_0) = 41.67°C$, and the temperature must be raised to at least $66.67°C$.
 
+-----
 #### EXAMPLE 1.13
 
 Consider the ring shown in the adjacent figure. What happens to the gap upon heating the ring?
@@ -894,6 +896,8 @@ Consider the ring shown in the adjacent figure. What happens to the gap upon hea
 **SOLUTION**
 
 The size of the gap, as any other linear dimension, increases.
+
+-----
 
 #### Exercises
 
@@ -1105,7 +1109,6 @@ The next experiments illustrate conduction of heat in metals, water and air.
 
 ---
 
----
 #### Experiment 2 Conduction of heat in water
 
 *   Place a piece of ice at the bottom of a test tube as shown in the diagram.
@@ -1137,7 +1140,7 @@ Warm clothes usually contain lots of trapped air. Between fibers of woolen mater
 
 Although conduction can occur in all forms of matter, it is fastest in solids because the particles are closest together. As we mentioned earlier, in metals, heat conduction is much faster than in other solids due to conduction electrons. In liquids, conduction is slower than in solids due to the fact that the molecules are slightly farther apart (an exception is liquid mercury and molten metals, which are good conductors of thermal energy, because they are metals). However, the main way in which thermal energy is transferred in liquids is not conduction, but convection. This phenomenon is explained in the following sections. In gases, conduction is extremely poor because of the very large average distance between particles. In gases heat is transferred mostly by convection. Vacuum, having no matter in it, does not "conduct" thermal energy (however, we know that all radiant energy passes through vacuum at the speed of light).
 
-> **Activity (Consequences of conducting heat)**
+> [!IMPORTANT] Activity (Consequences of conducting heat)
 >
 > Explain the following:
 >
@@ -1169,8 +1172,6 @@ There are very few exceptions to this rule. The most important one is water betw
 
 On the other hand, objects less dense than air, like hot air balloons, or bodies of hot air, float above the denser cold air. In terms of pressure, an object in a fluid experiences an upthrust which is less than its weight if it is denser than the fluid, and greater than its weight if it is less dense than the fluid. Thus, objects less dense than the body of the fluid **experience a net upward force, and will accelerate upwards**. When a part of a fluid is heated it becomes less dense, so it tends to move upward. Other denser parts sink, thus moving downwards. The result is that upward, downward and lateral currents of fluid movement (called **convection currents**) are created.
 
-> **Convection currents**
-
 ##### Convection in daily activities
 
 A burning matchstick, for example, quickly uses up the oxygen in contact with the flame, and replaces it with carbon dioxide. But, although carbon dioxide is normally denser than air and should go down, it is actually very hot and is much lighter than air. So it floats upwards, together with the other hot gases, which are replaced by oxygen-rich cold air coming up from underneath the rising hot gases. An upward current of warmed gases (called a *thermal*) is generated (that can cause a toy pinwheel placed above the burning matchstick to rotate).
@@ -1182,8 +1183,6 @@ A burning matchstick, for example, quickly uses up the oxygen in contact with th
 Similarly, a hot boiled egg is also cooled by "gravity". Air in contact with the surface of the egg takes away some of its thermal energy by conduction. The heated air that rises by convection, is replaced by more cold air which cools the egg further by conduction, and so on.
 
 You should also be aware that blowing air over an object to speed up heat transfer is an example of forced convection. Forced convection has more everyday applications because it is faster and more reliable. Fans in heaters, car radiators and air conditioners are the principal applications, though cooling an egg by blowing on it is also an example.
-
-> **Forced convection**
 
 *[Image of a car engine and a computer cooling fan.]*
 
@@ -1323,10 +1322,8 @@ In addition to conduction and convection, thermal energy can also be transferred
 
 In the year 1900, scientists had a lot of evidence in support of the wave model of light, and had no evidence "against" it, so the photon model was not yet "invented". The German physicist Max Planck came up with the idea that energy lost by hot "black bodies" is **"quantized"** (i.e. it comes in units called quanta), to explain certain theoretical difficulties scientists were facing in explaining the spectrum of radiation from hot bodies. Five years later, in 1905, Einstein suggested (to explain the *photoelectric effect*) that all radiant energy comes in quanta, which were to later years (after 1926) called photons. The **energy of each photon is proportional to the frequency of the radiation**.
 
-> **Photoelectric effect**
-
-***$E = hf$***
-where $E$ is the energy of the photon, $f$ is the frequency, and $h$ is the proportionality constant, called Planck's constant.
+***$\overline{E} = hf$***
+where $\overline{E}$ is the energy of the photon, $f$ is the frequency, and $h$ is the proportionality constant, called Planck's constant.
 
 **Properties of good and bad absorbers of radiant energy**
 
@@ -1360,7 +1357,7 @@ This experiment will also be demonstrated in the laboratory. With some modificat
 > **Black body**
 > The best absorber of radiant energy is a black body. A white or silvered body is a poor absorber of radiant energy. The postulate of thermal equilibrium requires that **good and poor absorbers be also good and poor radiators, respectively**. Otherwise, such bodies would never reach thermal equilibrium with their surroundings. For instance, if a very good absorber were an extremely poor radiator it would be able to raise its temperature indefinitely by absorbing all the radiation falling on it with little energy being radiated off.
 
-> **Activity**
+> [!IMPORTANT] Activity
 >
 > 1. Why are conventional ovens painted black on the inside and white on the outside?
 >
@@ -1410,7 +1407,7 @@ Experiments show that to insulate a body against heat loss, we have to take the 
 
 (d) The larger the area through which heat can escape, the more the heat that escapes. A window with double the area will allow twice the amount of heat to escape through it in the same time. Radiators have protruding metal "fins" welded to them in order to enlarge the area from which heat can escape, so they will cool faster.
 
-> **Activity**
+> [!IMPORTANT] Activity
 >
 > 1. Give an argument of two parts to explain why people in cold countries wear thicker clothing.
 >
