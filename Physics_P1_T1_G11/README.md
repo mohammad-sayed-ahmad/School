@@ -8,7 +8,7 @@
 - [X] Finish formatting
 - [X] General Formatting Review
 - [X] Add graphs and images
-- [ ] Seperate Exercises and Book
+- [X] Seperate Exercises and Book
 
 ## Audio Stage
 - [ ] Prepare audio script
