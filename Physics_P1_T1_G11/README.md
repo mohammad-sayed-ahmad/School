@@ -2,6 +2,7 @@
 
 - [Full Book](./full_book.md)
 - [Book](./book.md)
+- [Exercises](./exercises.md)
 
 ## Book Stage
 - [X] Extract text from images

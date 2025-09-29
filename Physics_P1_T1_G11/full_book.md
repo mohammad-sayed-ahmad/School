@@ -2,8 +2,7 @@
 
 ## 1.1 Sensation of hotness and temperature
 
-> [!IMPORTANT] 
-> Activity 1
+> [!IMPORTANT] Activity 1
 > Place one hand in cold water and the other hand in hot water, for a couple of minutes.
 > Take your hands out and place them in warm water. What will each hand feel?
 
