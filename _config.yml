@@ -1,5 +1,7 @@
 # _config.yml
 
 title: "Jekyll Actions Demo"
+url: "https://mohammad-sayed-ahmad.github.io"
+baseurl: "/School"
 include:
   - "README.md"
