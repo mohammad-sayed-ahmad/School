@@ -1555,3 +1555,6 @@ As heating expenses are getting higher and higher, more people are finding it wo
     4) The cross-sectional area through which heat can escape.
 
 *   Insulation should be effective, relatively cheap, and complete.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgyMzM3MTU3NV19
+-->
