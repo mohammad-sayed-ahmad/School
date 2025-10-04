@@ -85,9 +85,9 @@ In this case, the gradient of the curve at $P$ is defined as the gradient of the
 
 In dealing with the gradient of a curve at one of its points, small changes in the coordinates of this point are usually considered. The Greek letter $\delta$ (read delta) is used to indicate these small changes; for instance, $\delta x, \delta y, \delta t, \dots$ will denote small changes in $x, y, t, \dots$, respectively. Note that each of $\delta x, \delta y, \delta t, \dots$ has to be considered as a single symbol and not as the product of $\delta$ by $x, y, \text{ or } t$.
 
-Moreover an arrow will be used to abbreviate expressions such as "approaches to", or "tends to"; for instance: "$Q$ approaches $P$" may be abbreviated as "$Q \to P$".
+Moreover an arrow will be used to abbreviate expressions such as "approaches to", or "tends to"; for instance: " $Q$ approaches $P$ " may be abbreviated as " $Q \to P$ ".
 
-"The gradient of a curve at $P$ is the limit of the gradient of the chord $\overline{PQ}$" may be written as: "The gradient of the chord $\overline{PQ} \to$ the gradient of the curve at $P$" and "$\delta x$ approaches zero" may be abbreviated by: "$\delta x \to 0$".
+"The gradient of a curve at $P$ is the limit of the gradient of the chord $\overline{PQ}$ " may be written as: "The gradient of the chord $\overline{PQ} \to$ the gradient of the curve at $P$ " and " $\delta x$ approaches zero" may be abbreviated by: " $\delta x \to 0$ ".
 
 **The gradient at a variable point**
 
