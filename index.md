@@ -1,8 +1,8 @@
 # Current Materials
 [Mechanics](./Mechanics_1.1_1.5) [Work in Progress]
-[Math CA](./Math_Ch3) [Work in Progress]
-[]
+[Math CA](./Math_Ch3/README.md)
 
+[Chemistry CA](./Chemistry_Ch_1_Main-Topics) [Work in Progress]
 # Previous Materials 
 ## Term 1 Week 4
 
